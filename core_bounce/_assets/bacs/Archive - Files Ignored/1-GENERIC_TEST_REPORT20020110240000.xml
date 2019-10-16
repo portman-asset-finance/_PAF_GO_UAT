@@ -1,0 +1,157 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BACSDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="newbacs-reports.xsd">
+<Data>
+      <InputReport>
+         <Header reportNumber="1" reportType="REFT2013">
+            <ProducedOn date="2018-01-29" time="11:16:43"/>
+            <ProcessingDate date="2018-01-30"/>
+         </Header>
+         <Submission>
+            <SubmissionInformation submissionReferenceNumber="2018012901S006131903" media="BACSTEL-IP" volumeSerialNumber="ABCDEF"/>
+            <UserFile fileLevelMessage="">
+               <InputUserFile>
+                  <UserFileInformation userNumber="123100" userName="BASS Test User RBS" userFileNumber="001" fileCurrency="GBP" uhl1WorkCode="1 DAILY  " uhl1ProcessingDate="2018-01-30" fileReferenceNumber="2018012901F007715373" userSponsor="ROYAL BANK OF SCOT"/>
+                  <DaySection daySectionLevelErrorMessage="All data has either been amended or rejected as indicated ;">
+                     <DaySectionRecord dayRef="2018012901D040294076" recordDate="2018-01-30" processingDate="2018-01-30">
+                        <Credit numberOf="1" currency="GBP" valueOf="10.00">
+                           <Contra numberOf="1" currency="GBP" valueOf="10.00"/>
+                        </Credit>
+                        <Debit numberOf="0" currency="GBP" valueOf="0.00">
+                           <Contra numberOf="0" currency="GBP" valueOf="0.00"/>
+                        </Debit>
+                     </DaySectionRecord>
+                     <Totals>
+                        <Credit numberOf="1" currency="GBP" valueOf="10.00">
+                           <Contra numberOf="1" currency="GBP" valueOf="10.00"/>
+                        </Credit>
+                        <Debit numberOf="0" currency="GBP" valueOf="0.00">
+                           <Contra numberOf="0" currency="GBP" valueOf="0.00"/>
+                        </Debit>
+                     </Totals>
+                  </DaySection>
+                  <Errors>
+                     <Error>
+                        <ErrorItem errorItemType="ORIGINAL RECORD" reference="-REF - 0000000001-" transactionCode="99" currency="GBP" valueOf="10.00">
+                           <OriginatingAccount number="11111111" ref="0000" name="ABCDEF 0000000001-" sortCode="162029"/>
+                           <DestinationAccount number="13006255" name="-NAM - 0000000001-" sortCode="070000" type="0"/>
+                        </ErrorItem>
+                        <ErrorItem errorCode="E" errorItemType="RETURNED RECORD" reference="-REF - 0000000001-" transactionCode="99" currency="GBP" valueOf="10.00">
+                           <OriginatingAccount number="11111111" ref="0000" name="-NAM - 0000000001-" sortCode="162029"/>
+                           <DestinationAccount number="11111111" name="TEST ACCOUNT" sortCode="162029" type="0"/>
+                        </ErrorItem>
+                        <ErrorMessage type="REASON">
+                           <MessageLine>Recipient&apos;s sort code is invalid</MessageLine>
+                        </ErrorMessage>
+                     </Error>
+                     <TotalNumberOfErrors amendedRecords="0" returnedRecords="1" rejectedRecords="0"/>
+                  </Errors>
+                  <InputReportSummary>
+                     <AccountTotals>
+                        <AccountTotal number="11111111" sortCode="162029" type="Individual">
+                           <CreditEntry>
+                              <AcceptedRecords numberOf="1" currency="GBP" valueOf="10.00"/>
+                              <RejectedRecords numberOf="0" currency="GBP" valueOf="0.00"/>
+                              <TotalsRecords numberOf="1" currency="GBP" valueOf="10.00"/>
+                           </CreditEntry>
+                           <DebitEntry>
+                              <AcceptedRecords numberOf="0" currency="GBP" valueOf="0.00"/>
+                              <RejectedRecords numberOf="0" currency="GBP" valueOf="0.00"/>
+                              <TotalsRecords numberOf="0" currency="GBP" valueOf="0.00"/>
+                           </DebitEntry>
+                           <CreditContraEntry>
+                              <AcceptedRecords numberOf="1" currency="GBP" valueOf="10.00"/>
+                              <RejectedRecords numberOf="0" currency="GBP" valueOf="0.00"/>
+                              <TotalsRecords numberOf="1" currency="GBP" valueOf="10.00"/>
+                           </CreditContraEntry>
+                           <DebitContraEntry>
+                              <AcceptedRecords numberOf="0" currency="GBP" valueOf="0.00"/>
+                              <RejectedRecords numberOf="0" currency="GBP" valueOf="0.00"/>
+                              <TotalsRecords numberOf="0" currency="GBP" valueOf="0.00"/>
+                           </DebitContraEntry>
+                        </AccountTotal>
+                     </AccountTotals>
+                     <AgreementOfFileTotals>
+                        <CreditEntry>
+                           <AcceptedRecords numberOf="1" currency="GBP" valueOf="10.00"/>
+                           <RejectedRecords numberOf="0" currency="GBP" valueOf="0.00"/>
+                           <UserTrailerTotals numberOf="1" currency="GBP" valueOf="10.00"/>
+                           <AdjustmentRecords numberOf="0" currency="GBP" valueOf="0.00"/>
+                        </CreditEntry>
+                        <DebitEntry>
+                           <AcceptedRecords numberOf="1" currency="GBP" valueOf="10.00"/>
+                           <RejectedRecords numberOf="0" currency="GBP" valueOf="0.00"/>
+                           <UserTrailerTotals numberOf="1" currency="GBP" valueOf="10.00"/>
+                           <AdjustmentRecords numberOf="0" currency="GBP" valueOf="0.00"/>
+                        </DebitEntry>
+                     </AgreementOfFileTotals>
+                  </InputReportSummary>
+               </InputUserFile>
+            </UserFile>
+         </Submission>
+      </InputReport>
+   </Data><SignatureMethod>Vanilla</SignatureMethod><Signature>MIIOfAYJKoZIhvcNAQcCoIIObTCCDmkCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCC/0w
+ggaOMIIFdqADAgECAhAKAUKCAAABTouTxnfcd6QtMA0GCSqGSIb3DQEBBQUAMIGrMScwJQYDVQQK
+DB5UaGUgUm95YWwgQmFuayBvZiBTY290bGFuZCBQbGMxQzBBBgNVBAsMOlRoZSBSb3lhbCBCYW5r
+IG9mIFNjb3RsYW5kIHBsYyBUcnVzdEFzc3VyZWQgSW5mcmFzdHJ1Y3R1cmUxOzA5BgNVBAMMMnB0
+ZSBUaGUgUm95YWwgQmFuayBvZiBTY290bGFuZCBQbGMgVHJ1c3RBc3N1cmVkIENBMB4XDTE1MDcx
+NDA3NTk1NFoXDTE4MDgzMDA3NTk1NFowUzELMAkGA1UEBhMCR0IxETAPBgNVBAoTCFZvY2FMaW5r
+MRswGQYDVQQLExJDdXN0b21lciBSZWFkaW5lc3MxFDASBgNVBAMTC0NSIFJCUyBURVNUMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw1zaGgN4XB4JUyLR00usFG0wHmMMJdLy553Ntohp
+cm1zuO69pEeA0VzUC1mlLAhYB32Q9uvX09G222aUFdgOsU/Jv2l5uBhx8G/kpHbNKi3qTCIoogJP
+v4Bxro2IxZGW9OYJXNjpWxKdBiOMQ0j5j2HqybERuWsVpLsFOXR3Lt3YQBHDPYKP8HdALi+APp9L
+WlzDVMhLd0uFg59/j5Q7ofHknAehfZzkhHPi3xW3jN2ZWKgUA6tb+q7suNlMDrP6AAuPRlneK/A3
+WGX4DIsmr79MWzeXpvNSd5W9UR11Wdc8w9wklM+hoS9pCcs6eOtrnwSaePrYjIqJhaAhJkFCowID
+AQABo4IDAzCCAv8wDgYDVR0PAQH/BAQDAgbAMIICJwYDVR0gBIICHjCCAhowgewGCSqGSIb6ZQEK
+ATCB3jCB2wYIKwYBBQUHAgIwgc4agctUaGlzIHRlc3QgQ2VydGlmaWNhdGUgbWF5IGJlIHJlbGll
+ZCB1cG9uIG9ubHkgYnkgZWl0aGVyOiAoMSkgYSBSZWx5aW5nIEN1c3RvbWVyIG9mIGFuIElkZW5U
+cnVzdCBQYXJ0aWNpcGFudCwgb3IgKDIpIGEgcGFydHkgYm91bmQgdG8gdGhlIGFsdGVybmF0aXZl
+IHBvbGljeSByZWdpbWUgc3BlY2lmaWVkIGVsc2V3aGVyZSBpbiB0aGlzIENlcnRpZmljYXRlLjCC
+AScGDyqGOgAChcFICgECAQEEADCCARIwggEOBggrBgEFBQcCAjCCAQAagf1UaGlzIHRlc3QgQ2Vy
+dGlmaWNhdGUgaXMgZm9yIHRoZSBzb2xlIHVzZSBvZiBSQlMsIHRoZWlyIGN1c3RvbWVycywgYW5k
+IG90aGVyIGNvbnRyYWN0ZWQgcGFydGllcyBvZiBhc3NvY2lhdGVkIHN1cHBvcnRlZCBTY2hlbWVz
+LiBSQlMgYWNjZXB0cyBubyBsaWFiaWxpdHkgZm9yIGFueSBjbGFpbSBleGNlcHQgYXMgZXhwcmVz
+c2x5IHByb3ZpZGVkIGluIGl0cyBCdXNpbmVzcyBDdXN0b21lciBBZ3JlZW1lbnQgVGVybXMgYW5k
+IENvbmRpdGlvbnMuMB0GA1UdDgQWBBSxC6JUPwcvs0fh+TvS3uR3y3x2HjAYBggrBgEFBQcBAwQM
+MAowCAYGBACORgEBMEIGCCsGAQUFBwEBBDYwNDAyBggrBgEFBQcwAYYmaHR0cHM6Ly9yYnNpaS1w
+dGUub2NzcHRuLmlkZW50cnVzdC5jb20wHwYDVR0jBBgwFoAUqBbdxf/oHVxKRM5LahJHaYM7WNMw
+JAYDVR0RBB0wG4EZbGluZGEuZm9yc2V5QHZvY2FsaW5rLmNvbTANBgkqhkiG9w0BAQUFAAOCAQEA
+O3rPm+/j/5IeIBpTVXoViScVXakigais8SJRqs3aaDBrMq7yzDG11WI6IT+ME2xePmV7ZNZwa6ll
+Zuf747t/AgoH9Y5ORsf9KhuMdd30joVjm2owNdCgLsoDLsZavld5wM6/zreZhUZHvaU4t/texAAg
+Wr2KrTV71Y1P831O91Z8PR7YZ+J4Aog2A7uxuLROJvZX6li85GGveYUugouSwXrjI5qBHlLLkDk6
+qc+cbf4SL2z5hUuzCMKq0xE3DHPKdcHKNo3P5ym3Nyw5BtAwspvdCkNsWnM2gXiOmkk+Edbr9fFO
+TaaIt1W/A3xFbJ3uqQ5BlD1iXRUNq4Gr03Tr7TCCBWcwggRPoAMCAQICEAoBQkYAAAE+XKemkAAA
+AAIwDQYJKoZIhvcNAQEFBQAwgYAxFzAVBgNVBAoTDklkZW5UcnVzdCBJbmMuMTIwMAYDVQQLEylJ
+ZGVuVHJ1c3QgVGVzdCBSb290IENlcnRpZmljYXRlIEF1dGhvcml0eTExMC8GA1UEAxMoSWRlblRy
+dXN0IHB0ZSBSb290IENlcnRpZmljYXRlIEF1dGhvcml0eTAeFw0xMzA0MzAyMDM0NTFaFw0yMDA0
+MzAyMDM0NTFaMIGrMScwJQYDVQQKDB5UaGUgUm95YWwgQmFuayBvZiBTY290bGFuZCBQbGMxQzBB
+BgNVBAsMOlRoZSBSb3lhbCBCYW5rIG9mIFNjb3RsYW5kIHBsYyBUcnVzdEFzc3VyZWQgSW5mcmFz
+dHJ1Y3R1cmUxOzA5BgNVBAMMMnB0ZSBUaGUgUm95YWwgQmFuayBvZiBTY290bGFuZCBQbGMgVHJ1
+c3RBc3N1cmVkIENBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAykdsZRBG3T10pwmh
+XEtMsM29UXCRRTc4HObKqLCY2+HeAO1RN+U5Zehi5Baqr4U0lx8wVB3hNVd6yBXll/+2WciE121o
+qFCRtNHgS+aNwSu45PdiA4TabEaaByGNPUqGEwGXK0Tl7NEM7RW0JMnScrdB69eUfflkhE8R0D+v
+P6WlDANA7v21IlBclcWuZ2nebrXqOhpsxwcKqzHiEqdiIUAn6LV44/1s6hbCP8cwjB2QAvhi0xQm
+wmJPkKLKLI35f8ENZdKWtZCuf02/fNPtp0db16iFgQ82jAMvatBJFxYDh5vkz4pp92dO4GVEiZAk
+ULGxvgMnPqOHVuWSLZmiWQIDAQABo4IBrjCCAaowDgYDVR0PAQH/BAQDAgH+MBIGA1UdEwEB/wQI
+MAYBAf8CAQcwgfcGA1UdIASB7zCB7DCB6QYJKoZIhvplAQYBMIHbMIHYBggrBgEFBQcCAjCByxqB
+yFRoaXMgdGVzdCBjZXJ0aWZpY2F0ZSBpcyBmb3IgdGhlIHNvbGUgdXNlIG9mIElkZW5UcnVzdCwg
+aXRzIFBhcnRpY2lwYW50cyBhbmQgdGhlaXIgY3VzdG9tZXJzLiBJZGVuVHJ1c3QgYWNjZXB0cyBu
+byBsaWFiaWxpdHkgZm9yIGFueSBjbGFpbSBleGNlcHQgYXMgZXhwcmVzc2x5IHByb3ZpZGVkIGlu
+IGl0cyBPcGVyYXRpbmcgUnVsZXMgSUwtT1BSVUwuMB0GA1UdDgQWBBSoFt3F/+gdXEpEzktqEkdp
+gztY0zBKBggrBgEFBQcBAQQ+MDwwOgYIKwYBBQUHMAGGLmh0dHBzOi8vaWRlbnRydXN0cm9vdC1w
+dGUub2NzcHRuLmlkZW50cnVzdC5jb20wHwYDVR0jBBgwFoAUZobkz6kpZ0ctlkzolAAE3nPp5sIw
+DQYJKoZIhvcNAQEFBQADggEBAGI0uVrJus76pT2fcvuCIKOCAhrDioV0mXYPRWqQJLmelQ2VnlZn
+gWeQPjgeWiKlhXpAuYkqaRhowo2S4ue7eoqfYMV4WRwke2ODe3iobAT3+Hu0zluyxkyBfPdSQmdv
+KkcNVYX9WrcsrbxjmmokDQepZpIcKI3eoSi2ipNAZgl939N9v6o+CBHJRoh1svawOqmRq0qfNPcl
+grBSLCv+YN/d9tU/7BBplmJl3UGxmXiMu0B4hX4s7dqpFIDUjUEzVstEr3L3R2f5GHgjZjN7awMq
+3T6HSzfBw1KRbAKtx/vHOwWyk1HTNZd+ZESlNAT11Fka9Iv2PVlq42Jl5/1jwVcxggJHMIICQwIB
+ATCBwDCBqzEnMCUGA1UECgweVGhlIFJveWFsIEJhbmsgb2YgU2NvdGxhbmQgUGxjMUMwQQYDVQQL
+DDpUaGUgUm95YWwgQmFuayBvZiBTY290bGFuZCBwbGMgVHJ1c3RBc3N1cmVkIEluZnJhc3RydWN0
+dXJlMTswOQYDVQQDDDJwdGUgVGhlIFJveWFsIEJhbmsgb2YgU2NvdGxhbmQgUGxjIFRydXN0QXNz
+dXJlZCBDQQIQCgFCggAAAU6Lk8Z33HekLTAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqG
+SIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMTgwMTI5MTExODQ5WjAjBgkqhkiG9w0BCQQxFgQULecw
+RKzcID3UnTFvnZW3jAI8EY0wDQYJKoZIhvcNAQEBBQAEggEAeQIrGgkFegvzDqnm9L34JloeA9MM
+Hdy4yDJ4N8PB3DlZL3Mr7Kx/L/8+JkrgDKeDWhOf2IQevTS3t6D3Yr0Bi1hq89eHX/pZTmli23D6
+YfMlaz2V8SYXgDxyub0g2i4InZuvq3mSfnsY82YPnfYUI8ey/bZoXRR6Oa3XRiwEfwJ+HL3mWifl
+dzxx6Ze8xeJvcpW73jnKVUCYmuUCMoQC3GLRnAQ6FAW18N8DWgKVIfIFRZRrSUHMHoW+ZWzyWAcU
+rPDVnN6s3A96emOCtkCjZ8w9dL79+bLea8/skcZnFXVQos0k+x9zEhbXBPpPoa5Wezr03YyNExqa
+GqJb7j8L2g==</Signature></BACSDocument>

@@ -1,0 +1,151 @@
+<?xml version = '1.0' encoding = 'ISO-8859-1'?>
+<BACSDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="newbacs-advices.xsd">
+   <Data>
+      <ARUDD>
+         <Header reportType="REFT1019" adviceNumber="999" currentProcessingDate="2019-10-02"/>
+         <AddresseeInformation name="Blackrock Secured Finance Ltd "/>
+         <ServiceLicenseInformation userName="Blackrock Secured Finance Ltd " userNumber="913005"/>
+         <Advice>
+            <OriginatingAccountRecords>
+               <OriginatingAccountRecord>
+                  <OriginatingAccount name="BLACKROCK SE" number="05769981" sortCode="18-00-02" type="0" bankName="COUTTS" branchName="STRAND"/>
+                  <ReturnedDebitItem ref="APEL1567          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="981.12" currency="GBP">
+                     <PayerAccount number="04290332" ref="APEL1567          " name="TJ COMMUNICATION L" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1825          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1598.85" currency="GBP">
+                     <PayerAccount number="31426263" ref="APEL1825          " name="GLOW TANNING SPA  " sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2924-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1057.60" currency="GBP">
+                     <PayerAccount number="17653708" ref="APEL2924-1        " name="TOOHEY S TRADE WIN" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3231          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1450.00" currency="GBP">
+                     <PayerAccount number="35475712" ref="APEL3231          " name="RAM SECURITY SERVI" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3544-2        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="905.20" currency="GBP">
+                     <PayerAccount number="28339347" ref="APEL3544-2        " name="A STAR TRANSPORTAT" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3565          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1308.40" currency="GBP">
+                     <PayerAccount number="15539131" ref="APEL3565          " name="THE AUDIO ASYLUM  " sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3595-2        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="817.60" currency="GBP">
+                     <PayerAccount number="48891871" ref="APEL3595-2        " name="BLUCH BEAUTY AND T" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3597          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="905.20" currency="GBP">
+                     <PayerAccount number="19820453" ref="APEL3597          " name="UKRN LTD          " sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3727-2        " transCode="17" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="1096.80" currency="GBP">
+                     <PayerAccount number="45557236" ref="APEL3727-2        " name="JAO COMMERCIAL LIM" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3758          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="499.20" currency="GBP">
+                     <PayerAccount number="92024718" ref="APEL3758          " name="JKS FIRE SOLUTIONS" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3768          " transCode="17" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="610.00" currency="GBP">
+                     <PayerAccount number="44542254" ref="APEL3768          " name="PS PONY PARLOUR LT" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3769-6        " transCode="01" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="702.40" currency="GBP">
+                     <PayerAccount number="92022910" ref="APEL3769-6        " name="BRUSHMAGIX LTD    " sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3786-1        " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1297.60" currency="GBP">
+                     <PayerAccount number="12571970" ref="APEL3786-1        " name="BOSS NIGHTCLUB LTD" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4111            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="499.20" currency="GBP">
+                     <PayerAccount number="80328154" ref="BR4111            " name="P&amp;J DISPATCH LTD  " sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4204            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="603.00" currency="GBP">
+                     <PayerAccount number="24336636" ref="BR4204            " name="SLG JOINERY BUILDI" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4214            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="603.00" currency="GBP">
+                     <PayerAccount number="74984863" ref="BR4214            " name="ANDERSON EATS LTD " sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4220            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="642.00" currency="GBP">
+                     <PayerAccount number="80183096" ref="BR4220            " name="CH ASSESSORS LTD  " sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4225            " transCode="17" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="1069.60" currency="GBP">
+                     <PayerAccount number="62982820" ref="BR4225            " name="ALIA COLLYNS COSME" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4290            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="670.00" currency="GBP">
+                     <PayerAccount number="48432502" ref="BR4290            " name="STATTON LANDSCAPES" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4301            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="937.60" currency="GBP">
+                     <PayerAccount number="77564324" ref="BR4301            " name="TALLULAH BLOOMS FL" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4502-1          " transCode="01" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="1298.00" currency="GBP">
+                     <PayerAccount number="75552388" ref="BR4502-1          " name="M JACKSON -LIVERPO" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4522            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1571.20" currency="GBP">
+                     <PayerAccount number="50677721" ref="BR4522            " name="FOLLIES -HARBOUR A" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4608            " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1106.80" currency="GBP">
+                     <PayerAccount number="50677721" ref="BR4608            " name="FOLLIES -HARBOUR A" sortCode="08-71-99" bankName="APS FINANCIAL LTD" branchName="APS Financial Ltd"/>
+                  </ReturnedDebitItem>
+                  <Totals numberOf="23" valueOf="22230.37" currency="GBP"/>
+               </OriginatingAccountRecord>
+            </OriginatingAccountRecords>
+         </Advice>
+      </ARUDD>
+   </Data><SignatureMethod>Vanilla</SignatureMethod><Signature>MIIOjgYJKoZIhvcNAQcCoIIOfzCCDnsCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCDBMw
+ggaFMIIFbaADAgECAhBAAVz5Jmn0EwV3cNET1o8HMA0GCSqGSIb3DQEBBQUAMIGnMScwJQYDVQQK
+DB5UaGUgUm95YWwgQmFuayBvZiBTY290bGFuZCBwbGMxQzBBBgNVBAsMOlRoZSBSb3lhbCBCYW5r
+IG9mIFNjb3RsYW5kIHBsYyBUcnVzdEFzc3VyZWQgSW5mcmFzdHJ1Y3R1cmUxNzA1BgNVBAMMLlRo
+ZSBSb3lhbCBCYW5rIG9mIFNjb3RsYW5kIFBsYyBUcnVzdEFzc3VyZWQgQ0EwHhcNMTcwNjMwMTMx
+NzQzWhcNMjAwNjI5MTMxNzQzWjBTMQswCQYDVQQGEwJHQjEVMBMGA1UEChMMVm9jYUxpbmsgTHRk
+MRMwEQYDVQQLEwpCQUNTVEVMLUlQMRgwFgYDVQQDEw9SQlNHIFBST0QgQVAxMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDRVcLsAJJ4qY99mzdYMh97V3Xs/L/aEDKRfAivxsU7GOmN
+4ZjRttXgk+oS/EDzIT/eSEQMDFFAVBWMwkX5pL3ipRtLCMzPSg+ugdCKBXpiHaqIDB01F/y3Ctef
+f2HzKX9U+HufJ7nEpHZVRXqoMZ3bHSJpl2oGwWOXzl3+V3UjabCk6LRIXysD3fDX6xTxcuGXPPyX
+0HoYDCvzFpfpAiCCTThmwaRwpOGhXqOfF4L0uhJ3saGRCciy2X4o2cPdMKHoumPJhVILcoVKil8N
+w1mcSjl2eyEd4+9tWSO1YFBnolYFxymPe0zM805l1W4TpLA/YhMOoe8sWJbAad+4F6UFAgMBAAGj
+ggL+MIIC+jAOBgNVHQ8BAf8EBAMCBsAwPgYIKwYBBQUHAQEEMjAwMC4GCCsGAQUFBzABhiJodHRw
+czovL3Jic2lpLm9jc3B0bi5pZGVudHJ1c3QuY29tMB8GA1UdIwQYMBaAFGMXwIHUvw+pZjGW+hfB
+sMraFwLQMIICHAYDVR0gBIICEzCCAg8wgecGCSqGSIb6ZQEKATCB2TCB1gYIKwYBBQUHAgIwgcka
+gcZUaGlzIENlcnRpZmljYXRlIG1heSBiZSByZWxpZWQgdXBvbiBvbmx5IGJ5IGVpdGhlcjogKDEp
+IGEgUmVseWluZyBDdXN0b21lciBvZiBhbiBJZGVuVHJ1c3QgUGFydGljaXBhbnQsIG9yICgyKSBh
+IHBhcnR5IGJvdW5kIHRvIHRoZSBhbHRlcm5hdGl2ZSBwb2xpY3kgcmVnaW1lIHNwZWNpZmllZCBl
+bHNld2hlcmUgaW4gdGhpcyBDZXJ0aWZpY2F0ZS4wggEhBg8qhjoAAoXBSAoBAgEBBAAwggEMMIIB
+CAYIKwYBBQUHAgIwgfsagfhUaGlzIENlcnRpZmljYXRlIGlzIGZvciB0aGUgc29sZSB1c2Ugb2Yg
+UkJTLCB0aGVpciBjdXN0b21lcnMsIGFuZCBvdGhlciBjb250cmFjdGVkIHBhcnRpZXMgb2YgYXNz
+b2NpYXRlZCBzdXBwb3J0ZWQgU2NoZW1lcy4gUkJTIGFjY2VwdHMgbm8gbGlhYmlsaXR5IGZvciBh
+bnkgY2xhaW0gZXhjZXB0IGFzIGV4cHJlc3NseSBwcm92aWRlZCBpbiBpdHMgQnVzaW5lc3MgQ3Vz
+dG9tZXIgQWdyZWVtZW50IFRlcm1zIGFuZCBDb25kaXRpb25zLjAuBgNVHREEJzAlgSNCYWNzLlNl
+cnZpY2VNYW5hZ2VtZW50QHZvY2FsaW5rLmNvbTAdBgNVHQ4EFgQUjlNU/ucVm8lr8TcFItCmgGBP
+ATgwGAYIKwYBBQUHAQMEDDAKMAgGBgQAjkYBATANBgkqhkiG9w0BAQUFAAOCAQEAUqMw4r2aMzKI
+fLY+rZCJ/SreVv4tR0bijgFhqMg/z0YGcsx0lx5VoelW7V95bvl26qof5UISNdBQFqWtD7EpCJPU
+PJWG+Os/stxBRGg4tGp/BgXiO0JChzGlMIlTSaBuFmUwSg+v163P3t5wePQVHwU+clQ/wy00dijX
+cEB0GDs8qBM6Yl7szhCm4TNYTXMwymv0CnLCg3fafdgXlKdaDhpH3hXI/a87DOXvN9CHj/1zUTqt
+64XKPLc38Yxf7Q/n3zaIXEcaSJU6LIpJIZAWvzSrWdnYDigTOoLjxJK87I+BoR652N5kY8L5FL0E
+hERYYTn5wOBWWwuH4SSNG6zcHDCCBYYwggRuoAMCAQICEAoBQUIAAAFBnhianAAAAAIwDQYJKoZI
+hvcNAQEFBQAwdzEXMBUGA1UEChMOSWRlblRydXN0IEluYy4xLTArBgNVBAsTJElkZW5UcnVzdCBS
+b290IENlcnRpZmljYXRlIEF1dGhvcml0eTEtMCsGA1UEAxMkSWRlblRydXN0IFJvb3QgQ2VydGlm
+aWNhdGUgQXV0aG9yaXR5MB4XDTEzMTAwOTE2NDE1NFoXDTIwMTAwOTE2NDE1NFowgacxJzAlBgNV
+BAoMHlRoZSBSb3lhbCBCYW5rIG9mIFNjb3RsYW5kIHBsYzFDMEEGA1UECww6VGhlIFJveWFsIEJh
+bmsgb2YgU2NvdGxhbmQgcGxjIFRydXN0QXNzdXJlZCBJbmZyYXN0cnVjdHVyZTE3MDUGA1UEAwwu
+VGhlIFJveWFsIEJhbmsgb2YgU2NvdGxhbmQgUGxjIFRydXN0QXNzdXJlZCBDQTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAMuQuSGpH/sbwmVnlhQNsW/lE1gNsHxM2rrRgKMCGHoXXPwr
+9GG1BEPiLTl9tfuXHlxqnp7EIJDpqHiG6+uhDupLpYO2i/JmBErKLI/kljHJVkCsJ+wvgOXEN+1o
+c0VwbFNDkqQdfOBD9dBUnaZNfuAFg4lRuvCl2RW5+dOJ44nq7S2zdtBluwKOuRN0EZXXS4uJv39u
+f5gqjOvOLJc9N+f9ZW0c/u2jQLfR6A9zy9V7+uO7khiOMM5DNBBfEmk6njWrZ1O2DjzrU5LKWEqI
+azHcWKRGfenBTBRv0SwO6iHNlR+SFyLXiCMCRk8mKgxA6KIqKo3031UBJDbImePplk0CAwEAAaOC
+AdswggHXMA4GA1UdDwEB/wQEAwIB/jASBgNVHRMBAf8ECDAGAQH/AgEHMIHyBgNVHSAEgeowgecw
+geQGCSqGSIb6ZQEGATCB1jCB0wYIKwYBBQUHAgIwgcYagcNUaGlzIGNlcnRpZmljYXRlIGlzIGZv
+ciB0aGUgc29sZSB1c2Ugb2YgSWRlblRydXN0LCBpdHMgUGFydGljaXBhbnRzIGFuZCB0aGVpciBj
+dXN0b21lcnMuIElkZW5UcnVzdCBhY2NlcHRzIG5vIGxpYWJpbGl0eSBmb3IgYW55IGNsYWltIGV4
+Y2VwdCBhcyBleHByZXNzbHkgcHJvdmlkZWQgaW4gaXRzIE9wZXJhdGluZyBSdWxlcyBJTC1PUFJV
+TC4wHQYDVR0OBBYEFGMXwIHUvw+pZjGW+hfBsMraFwLQMHwGCCsGAQUFBwEBBHAwbjA2BggrBgEF
+BQcwAYYqaHR0cHM6Ly9pZGVudHJ1c3Ryb290Lm9jc3B0bi5pZGVudHJ1c3QuY29tMDQGCCqGSIb6
+ZQQBhihodHRwczovL2lkZW50cnVzdHJvb3QudGN0bi5pZGVudHJ1c3QuY29tMB8GA1UdIwQYMBaA
+FHTYCfZJJ5sEGhlj+mErc/+dbkk9MA0GCSqGSIb3DQEBBQUAA4IBAQC7sGDJo/XylmrN2Efvjyi1
+W27iOooPfsVgAYZ/UGbaPjvcMmn/xJE2KBC/SFIodL85kEunCjBkqB8eb19H2Q9gnsd/lFht5nG4
+49obpxPOs4FsRSZSaadWjBLnajmSdGmTbQX3u9mdv/IrvhGpcG+Te07kNmvmbqP13pfryKXZ+ekx
+iX/JZ7/A+dCEVC+tSGoeDWBa1feX2TuVUcSrCVdoYVNbroKOQJ94wjsN7imhh5GtNq940wQl4W4r
+CwzL6+JJ4VXWt4nCjtruuKCI0jAIDMZmdCYsxZ4slR4foK2yVZXNc9Rjm0q9Kb5AdJQC9L/4kKgx
+mgYxCcVBsht3N1klMYICQzCCAj8CAQEwgbwwgacxJzAlBgNVBAoMHlRoZSBSb3lhbCBCYW5rIG9m
+IFNjb3RsYW5kIHBsYzFDMEEGA1UECww6VGhlIFJveWFsIEJhbmsgb2YgU2NvdGxhbmQgcGxjIFRy
+dXN0QXNzdXJlZCBJbmZyYXN0cnVjdHVyZTE3MDUGA1UEAwwuVGhlIFJveWFsIEJhbmsgb2YgU2Nv
+dGxhbmQgUGxjIFRydXN0QXNzdXJlZCBDQQIQQAFc+SZp9BMFd3DRE9aPBzAJBgUrDgMCGgUAoF0w
+GAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMTkxMDAyMDAyNzUzWjAj
+BgkqhkiG9w0BCQQxFgQUlRDGvmIkuOlCEb40JZAT3vrEdMAwDQYJKoZIhvcNAQEBBQAEggEAwcBt
+jQv6Qf7WtxfbuptrV9KqBT1aQTqZzbgvdCEECSJ/P++AZYa4PpTiHKVIbYD995oVFmkx/Zy+/nh1
+bW3JqhQheD0WlZjKaJrgDXVjnA0bOwhWlIjKK03EPR7GasKJ3k83V3VWoQDT8eOVyaTtUtXQS6JR
+CJrzT3noRA8iSzFoOG5Ps7zv+NU4N5skUWxe+D5WNsxma6xLhDPSAZX5/Grk77N9t6ol2QL7YgR8
+OLV/umx3RCFaxUXrEGIALqw3QbW/CWlXECeHgtSsj0TOCG6TsrjmH2f4lCGG2kL3DaGNJdieDyhn
+it1CZIp595cmyyekCxmmL79rLh+yHkEWtA==</Signature></BACSDocument>

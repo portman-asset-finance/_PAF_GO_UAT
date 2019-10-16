@@ -1,0 +1,104 @@
+<?xml version = '1.0' encoding = 'ISO-8859-1'?>
+<BACSDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="newbacs-reports.xsd">
+   <Data>
+      <InputReport>
+         <Header reportSequenceNumber="0" userNumber="0" batchNumber="0" reportType="REFT2013" reportNumber="1">
+            <ProducedOn date="2019-10-08" time="11:26:12"/>
+            <ProcessingDate date="2019-10-09"/>
+         </Header>
+         <Submission submissionLevelErrorMessage="0">
+            <SubmissionInformation volumeSerialNumber="033702" bureauName="MASTERCARD PYMT GATEWAY SERVS LTD" submissionReferenceNumber="2019100901S080980237" bureauSponsor="BARCLAYS BANK PLC" bureauNumber="B20770" media="Bacstel-IP"/>
+            <UserFile fileLevelMessage=" ">
+               <InputUserFile>
+                  <UserFileInformation userName="Blackrock Secured Finance Ltd " uhl1ProcessingDate="2019-10-09" uhl1WorkCode="1 DAILY  " userSponsor="COUTTS &amp; CO" userNumber="913005" sequenceNumber="0" userFileNumber="001" fileReferenceNumber="2019100902F000004085" fileCurrency="GBP"/>
+                  <DaySection daySectionLevelErrorMessage="0">
+                     <DaySectionRecord dayRef="0" processingDate="2019-10-09" recordDate="2019-10-09">
+                        <Credit currency="GBP" valueOf="0" numberOf="0">
+                           <Contra currency="GBP" valueOf="0" numberOf="0"/>
+                        </Credit>
+                        <Debit currency="GBP" valueOf="0" numberOf="0">
+                           <Contra currency="GBP" valueOf="0" numberOf="0"/>
+                        </Debit>
+                     </DaySectionRecord>
+                     <Totals>
+                        <Credit currency="GBP" valueOf="0" numberOf="0">
+                           <Contra currency="GBP" valueOf="0" numberOf="0"/>
+                        </Credit>
+                        <Debit currency="GBP" valueOf="0" numberOf="0000034">
+                           <Contra currency="GBP" valueOf="0" numberOf="0"/>
+                        </Debit>
+                     </Totals>
+                  </DaySection>
+                  <Errors>
+                     <TotalNumberOfErrors rejectedRecords="0" amendedRecords="0" returnedRecords="0"/>
+                  </Errors>
+               </InputUserFile>
+            </UserFile>
+         </Submission>
+      </InputReport>
+   </Data><SignatureMethod>Vanilla</SignatureMethod><Signature>MIIOjgYJKoZIhvcNAQcCoIIOfzCCDnsCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCDBMw
+ggaFMIIFbaADAgECAhBAAVz5Jmn0EwV3cNET1o8HMA0GCSqGSIb3DQEBBQUAMIGnMScwJQYDVQQK
+DB5UaGUgUm95YWwgQmFuayBvZiBTY290bGFuZCBwbGMxQzBBBgNVBAsMOlRoZSBSb3lhbCBCYW5r
+IG9mIFNjb3RsYW5kIHBsYyBUcnVzdEFzc3VyZWQgSW5mcmFzdHJ1Y3R1cmUxNzA1BgNVBAMMLlRo
+ZSBSb3lhbCBCYW5rIG9mIFNjb3RsYW5kIFBsYyBUcnVzdEFzc3VyZWQgQ0EwHhcNMTcwNjMwMTMx
+NzQzWhcNMjAwNjI5MTMxNzQzWjBTMQswCQYDVQQGEwJHQjEVMBMGA1UEChMMVm9jYUxpbmsgTHRk
+MRMwEQYDVQQLEwpCQUNTVEVMLUlQMRgwFgYDVQQDEw9SQlNHIFBST0QgQVAxMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDRVcLsAJJ4qY99mzdYMh97V3Xs/L/aEDKRfAivxsU7GOmN
+4ZjRttXgk+oS/EDzIT/eSEQMDFFAVBWMwkX5pL3ipRtLCMzPSg+ugdCKBXpiHaqIDB01F/y3Ctef
+f2HzKX9U+HufJ7nEpHZVRXqoMZ3bHSJpl2oGwWOXzl3+V3UjabCk6LRIXysD3fDX6xTxcuGXPPyX
+0HoYDCvzFpfpAiCCTThmwaRwpOGhXqOfF4L0uhJ3saGRCciy2X4o2cPdMKHoumPJhVILcoVKil8N
+w1mcSjl2eyEd4+9tWSO1YFBnolYFxymPe0zM805l1W4TpLA/YhMOoe8sWJbAad+4F6UFAgMBAAGj
+ggL+MIIC+jAOBgNVHQ8BAf8EBAMCBsAwPgYIKwYBBQUHAQEEMjAwMC4GCCsGAQUFBzABhiJodHRw
+czovL3Jic2lpLm9jc3B0bi5pZGVudHJ1c3QuY29tMB8GA1UdIwQYMBaAFGMXwIHUvw+pZjGW+hfB
+sMraFwLQMIICHAYDVR0gBIICEzCCAg8wgecGCSqGSIb6ZQEKATCB2TCB1gYIKwYBBQUHAgIwgcka
+gcZUaGlzIENlcnRpZmljYXRlIG1heSBiZSByZWxpZWQgdXBvbiBvbmx5IGJ5IGVpdGhlcjogKDEp
+IGEgUmVseWluZyBDdXN0b21lciBvZiBhbiBJZGVuVHJ1c3QgUGFydGljaXBhbnQsIG9yICgyKSBh
+IHBhcnR5IGJvdW5kIHRvIHRoZSBhbHRlcm5hdGl2ZSBwb2xpY3kgcmVnaW1lIHNwZWNpZmllZCBl
+bHNld2hlcmUgaW4gdGhpcyBDZXJ0aWZpY2F0ZS4wggEhBg8qhjoAAoXBSAoBAgEBBAAwggEMMIIB
+CAYIKwYBBQUHAgIwgfsagfhUaGlzIENlcnRpZmljYXRlIGlzIGZvciB0aGUgc29sZSB1c2Ugb2Yg
+UkJTLCB0aGVpciBjdXN0b21lcnMsIGFuZCBvdGhlciBjb250cmFjdGVkIHBhcnRpZXMgb2YgYXNz
+b2NpYXRlZCBzdXBwb3J0ZWQgU2NoZW1lcy4gUkJTIGFjY2VwdHMgbm8gbGlhYmlsaXR5IGZvciBh
+bnkgY2xhaW0gZXhjZXB0IGFzIGV4cHJlc3NseSBwcm92aWRlZCBpbiBpdHMgQnVzaW5lc3MgQ3Vz
+dG9tZXIgQWdyZWVtZW50IFRlcm1zIGFuZCBDb25kaXRpb25zLjAuBgNVHREEJzAlgSNCYWNzLlNl
+cnZpY2VNYW5hZ2VtZW50QHZvY2FsaW5rLmNvbTAdBgNVHQ4EFgQUjlNU/ucVm8lr8TcFItCmgGBP
+ATgwGAYIKwYBBQUHAQMEDDAKMAgGBgQAjkYBATANBgkqhkiG9w0BAQUFAAOCAQEAUqMw4r2aMzKI
+fLY+rZCJ/SreVv4tR0bijgFhqMg/z0YGcsx0lx5VoelW7V95bvl26qof5UISNdBQFqWtD7EpCJPU
+PJWG+Os/stxBRGg4tGp/BgXiO0JChzGlMIlTSaBuFmUwSg+v163P3t5wePQVHwU+clQ/wy00dijX
+cEB0GDs8qBM6Yl7szhCm4TNYTXMwymv0CnLCg3fafdgXlKdaDhpH3hXI/a87DOXvN9CHj/1zUTqt
+64XKPLc38Yxf7Q/n3zaIXEcaSJU6LIpJIZAWvzSrWdnYDigTOoLjxJK87I+BoR652N5kY8L5FL0E
+hERYYTn5wOBWWwuH4SSNG6zcHDCCBYYwggRuoAMCAQICEAoBQUIAAAFBnhianAAAAAIwDQYJKoZI
+hvcNAQEFBQAwdzEXMBUGA1UEChMOSWRlblRydXN0IEluYy4xLTArBgNVBAsTJElkZW5UcnVzdCBS
+b290IENlcnRpZmljYXRlIEF1dGhvcml0eTEtMCsGA1UEAxMkSWRlblRydXN0IFJvb3QgQ2VydGlm
+aWNhdGUgQXV0aG9yaXR5MB4XDTEzMTAwOTE2NDE1NFoXDTIwMTAwOTE2NDE1NFowgacxJzAlBgNV
+BAoMHlRoZSBSb3lhbCBCYW5rIG9mIFNjb3RsYW5kIHBsYzFDMEEGA1UECww6VGhlIFJveWFsIEJh
+bmsgb2YgU2NvdGxhbmQgcGxjIFRydXN0QXNzdXJlZCBJbmZyYXN0cnVjdHVyZTE3MDUGA1UEAwwu
+VGhlIFJveWFsIEJhbmsgb2YgU2NvdGxhbmQgUGxjIFRydXN0QXNzdXJlZCBDQTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAMuQuSGpH/sbwmVnlhQNsW/lE1gNsHxM2rrRgKMCGHoXXPwr
+9GG1BEPiLTl9tfuXHlxqnp7EIJDpqHiG6+uhDupLpYO2i/JmBErKLI/kljHJVkCsJ+wvgOXEN+1o
+c0VwbFNDkqQdfOBD9dBUnaZNfuAFg4lRuvCl2RW5+dOJ44nq7S2zdtBluwKOuRN0EZXXS4uJv39u
+f5gqjOvOLJc9N+f9ZW0c/u2jQLfR6A9zy9V7+uO7khiOMM5DNBBfEmk6njWrZ1O2DjzrU5LKWEqI
+azHcWKRGfenBTBRv0SwO6iHNlR+SFyLXiCMCRk8mKgxA6KIqKo3031UBJDbImePplk0CAwEAAaOC
+AdswggHXMA4GA1UdDwEB/wQEAwIB/jASBgNVHRMBAf8ECDAGAQH/AgEHMIHyBgNVHSAEgeowgecw
+geQGCSqGSIb6ZQEGATCB1jCB0wYIKwYBBQUHAgIwgcYagcNUaGlzIGNlcnRpZmljYXRlIGlzIGZv
+ciB0aGUgc29sZSB1c2Ugb2YgSWRlblRydXN0LCBpdHMgUGFydGljaXBhbnRzIGFuZCB0aGVpciBj
+dXN0b21lcnMuIElkZW5UcnVzdCBhY2NlcHRzIG5vIGxpYWJpbGl0eSBmb3IgYW55IGNsYWltIGV4
+Y2VwdCBhcyBleHByZXNzbHkgcHJvdmlkZWQgaW4gaXRzIE9wZXJhdGluZyBSdWxlcyBJTC1PUFJV
+TC4wHQYDVR0OBBYEFGMXwIHUvw+pZjGW+hfBsMraFwLQMHwGCCsGAQUFBwEBBHAwbjA2BggrBgEF
+BQcwAYYqaHR0cHM6Ly9pZGVudHJ1c3Ryb290Lm9jc3B0bi5pZGVudHJ1c3QuY29tMDQGCCqGSIb6
+ZQQBhihodHRwczovL2lkZW50cnVzdHJvb3QudGN0bi5pZGVudHJ1c3QuY29tMB8GA1UdIwQYMBaA
+FHTYCfZJJ5sEGhlj+mErc/+dbkk9MA0GCSqGSIb3DQEBBQUAA4IBAQC7sGDJo/XylmrN2Efvjyi1
+W27iOooPfsVgAYZ/UGbaPjvcMmn/xJE2KBC/SFIodL85kEunCjBkqB8eb19H2Q9gnsd/lFht5nG4
+49obpxPOs4FsRSZSaadWjBLnajmSdGmTbQX3u9mdv/IrvhGpcG+Te07kNmvmbqP13pfryKXZ+ekx
+iX/JZ7/A+dCEVC+tSGoeDWBa1feX2TuVUcSrCVdoYVNbroKOQJ94wjsN7imhh5GtNq940wQl4W4r
+CwzL6+JJ4VXWt4nCjtruuKCI0jAIDMZmdCYsxZ4slR4foK2yVZXNc9Rjm0q9Kb5AdJQC9L/4kKgx
+mgYxCcVBsht3N1klMYICQzCCAj8CAQEwgbwwgacxJzAlBgNVBAoMHlRoZSBSb3lhbCBCYW5rIG9m
+IFNjb3RsYW5kIHBsYzFDMEEGA1UECww6VGhlIFJveWFsIEJhbmsgb2YgU2NvdGxhbmQgcGxjIFRy
+dXN0QXNzdXJlZCBJbmZyYXN0cnVjdHVyZTE3MDUGA1UEAwwuVGhlIFJveWFsIEJhbmsgb2YgU2Nv
+dGxhbmQgUGxjIFRydXN0QXNzdXJlZCBDQQIQQAFc+SZp9BMFd3DRE9aPBzAJBgUrDgMCGgUAoF0w
+GAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMTkxMDA4MTAyNjE1WjAj
+BgkqhkiG9w0BCQQxFgQU2Zi+i6TfqSH6s4FJwLdZOSP9HIwwDQYJKoZIhvcNAQEBBQAEggEAL8P4
+5Dka37enyP3oV8Lr81Q6CJK2fIWQ+wURgjVW2RYSWe8mlaOlj/OiWtGBvtUOHHgGMI/jv2n5Ugci
+//4IGcGekYvHIVrB90ql9peX7LDYqt4whCbiz+ja1S12y7ToUNizL5tGOO2VIekgD1jEBCGrr/do
+zpWLX6PrlY7aoBEziK+M2FuJpVmzMm0sGr+25Np9vAu84R5ZzKzgj9nz/flEmufj2l9pimWSCPzV
+9eoE+QsBscRIB59NjYsO63Y7QbBdYAVdtsWLz0H+J8AtoXO99HuyXIR29SDxfzipWJOQbj7GEVj+
+AGGl+fe2Fn7fDhrx2slc0Beq9hjRIPjiig==</Signature></BACSDocument>

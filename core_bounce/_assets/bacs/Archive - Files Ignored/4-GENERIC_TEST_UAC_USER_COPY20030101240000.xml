@@ -1,0 +1,76 @@
+<?xml version = '1.0' encoding = 'ISO-8859-1'?>
+<BACSDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="newbacs-advices.xsd">
+   <Data>
+      <ARUCS>
+         <Header reportType="REFT1028" adviceNumber="999" currentProcessingDate="2018-01-30"/>
+         <AddresseeInformation name="SS - VocaLink BASS"/>
+         <ServiceLicenseInformation userName="SS - VocaLink BASS" userNumber="022222"/>
+         <Advice>
+            <OriginatingAccountRecords>
+               <OriginatingAccountRecord>
+                  <OriginatingAccount name="M SMITH           " number="11111111" sortCode="16-20-29" type="0" bankName="RBS INTERNTL LTD" branchName="GUERNSEY"/>
+                  <ReturnedCreditItem ref="VOCALINK          " uacName="INTERBACS   " transCode="RA" returnCode="0" returnDescription="Invalid details" valueOf="10.00" currency="GBP">
+                     <ReceiverAccount number="11111111" ref="VOCALINK          " name="M SMITH           " sortCode="16-20-29" bankName="RBS INTERNTL LTD" branchName="GUERNSEY"/>
+                  </ReturnedCreditItem>
+                  <ReturnedCreditItem ref="VOCALINK          " uacName="INTERBACS   " transCode="RA" returnCode="2" returnDescription="Beneficiary deceased" valueOf="11.00" currency="GBP">
+                     <ReceiverAccount number="11111111" ref="VOCALINK          " name="T JONES           " sortCode="16-20-29" bankName="RBS INTERNTL LTD" branchName="GUERNSEY"/>
+                  </ReturnedCreditItem>
+                  <Totals numberOf="2" valueOf="21.00" currency="GBP"/>
+               </OriginatingAccountRecord>
+            </OriginatingAccountRecords>
+         </Advice>
+      </ARUCS>
+   </Data><SignatureMethod>Vanilla</SignatureMethod><Signature>MIIL4wYJKoZIhvcNAQcCoIIL1DCCC9ACAQExDzANBglghkgBZQMEAgEFADALBgkqhkiG9w0BBwGg
+ggmEMIIFLjCCBBagAwIBAgIQTmHvB4oWiLHwNUAAgFLe1zANBgkqhkiG9w0BAQsFADB4MRowGAYD
+VQQKExFCYXJjbGF5cyBCYW5rIFBMQzEsMCoGA1UECxMjVGVzdCBCQUNTIEN1c3RvbWVyIElkZW50
+aXR5IENBICgxMCkxLDAqBgNVBAMTI1Rlc3QgQkFDUyBDdXN0b21lciBJZGVudGl0eSBDQSAoMTAp
+MB4XDTE2MTEwMjAwMDAwMFoXDTE3MTEwMjIzNTk1OVowgZMxGjAYBgNVBAoUEUJhcmNsYXlzIEJh
+bmsgUExDMSQwIgYDVQQLFBtQVVJOIC0gOTk5MDAwMDAwMDI5MTUwMDAwMDExETAPBgNVBAsUCENO
+VU0gLSAxMSEwHwYDVQQLFBhDT1JHIC0gVk9DQUxJTksgSFNNIFNIQTIxGTAXBgNVBAMTEEhTTTIw
+NDggU0hBMkNPQVQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCaEpu73RYpPrmRD+Na
+qJg55GWZ4ucGE0pIVI2mYsYC3Ug/021gkdcbx+8oo/82zej6GjgQMQOCRlWOdBmqDKsZQ+xIxVWd
+P02mO2f2w376bI/VA7582msWKC3/lDoMmn2EuUO979Fb7rAQXZ/15aXZ80wDunaC1zuBu3fpWfaH
+pkeFTpvGX2qqVZKNnnp4U1np4piYYcB0owrb7wKLYereI6r84uBpk8VNFxxEl3rjPY2YyCWQ8U60
+qkcZdlu0CFLHXczHykR4UTfHL95/kIWB+xIgUN315e5TjKumrbN5RwBdMZ7McZX+yd6Bnpc+hgK2
+35fkqVRr1TxQBugS8bvJAgMBAAGjggGWMIIBkjAOBgNVHQ8BAf8EBAMCBsAwHwYDVR0jBBgwFoAU
+k7tgFy7w/cOB5fLyxHa3X4QUFlcwJgYDVR0RBB8wHYEbZ2VvZmYuZ29vc3RyZXlAYmFyY2xheXMu
+Y29tMIH0BgNVHSAEgewwgekwgeYGDSqGOgABvtB3AgEEAQIwgdQwgdEGCCsGAQUFBwICMIHEGoHB
+VGhpcyBjZXJ0aWZpY2F0ZSBpcyBpc3N1ZWQgYnkgQmFyY2xheXMgQmFuayBQTEMsIHdoaWNoIGhh
+cyBubyBsaWFiaWxpdHkgdW5kZXIgaXQgb3RoZXIgdGhhbiB0byBwZXJzb25zIHdobyBoYXZlIGVu
+dGVyZWQgaW50bywgYW5kIHRoZW4gb25seSB0byB0aGUgZXh0ZW50IHNldCBvdXQgaW4sIGFuIGFn
+cmVlbWVudCB3aXRoIEJhcmNsYXlzLjBABggrBgEFBQcBAQQ0MDIwMAYIKwYBBQUHMAGGJGh0dHBz
+Oi8vYmFyY2xheXMtb2NzcDEudHJ1c3R3aXNlLmNvbTANBgkqhkiG9w0BAQsFAAOCAQEAI+w5H66C
+EiLC58UcVvUc0cIjlO/066qeHOLvoO+XP81f6e0j3UpxnZe4zh+PyzfQwSnq3VYL1d7iafNc0Myv
+Zlc50U/Cg0XotGkXxbM9fFcETD0hiXHbAz9AIrJVo4JzQHRgmwJhgpS0OZV/YWYk2/Tl/CwpzJNN
+Ck3Vs0U6IoDJeLXEluKReLDyNkZkryzRBxhSaViQ0kYRGLQiFEtk4MZ5VWIMvuSB+DikMa7miun+
+An9GEYpEbpo1A9WaQ8vHWSNBGw9PFce/MS9FMuTOzmcg49A9Y/Z7ABLtPIge2Qw0Tc89DT/ykbfq
+WDhM4cijY63luDbbXyQ9v9chAbboozCCBE4wggM2oAMCAQICEGXXBexHPJcLDR2uKrHU3E8wDQYJ
+KoZIhvcNAQELBQAwWjEaMBgGA1UEChMRQmFyY2xheXMgQmFuayBQTEMxHTAbBgNVBAsTFFRlc3Qg
+VFRQIFJvb3QgQ0EgKDYpMR0wGwYDVQQDExRUZXN0IFRUUCBSb290IENBICg2KTAeFw0xNjA5Mjkw
+MDAwMDBaFw0yMzA5MjgyMzU5NTlaMHgxGjAYBgNVBAoTEUJhcmNsYXlzIEJhbmsgUExDMSwwKgYD
+VQQLEyNUZXN0IEJBQ1MgQ3VzdG9tZXIgSWRlbnRpdHkgQ0EgKDEwKTEsMCoGA1UEAxMjVGVzdCBC
+QUNTIEN1c3RvbWVyIElkZW50aXR5IENBICgxMCkwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQC+gOMVjkeKLpy11A7aEdf3yG7A2XbkPsE9lHXqdstUiwGpC1ykzb6bc7E6svJflaQk4dNr
+7HmAxQTTH7tn8CgCTtvPgueBdhlUaZde/qhw22qHqIZZOyKec0FMWsdJRPeu1Qk55lQc5+PNn1Sr
+EPkJ+cj+lk+lN3jgkq3ZmSapdZ5lxSltwbdsKIUE4bvlMn2iE1P6FgirLnxJeTouun52Uhq2IePb
+yau8PLxJ/YNRmGtAFnPeuma3WuGxDRmU8S8hYRWU6FYcSdAZ2zp6Vq4WJMff36CNMDZsTA7ircqJ
+mjyMg1q+i8PJ0MpLaCAmz3kR0BJlolhan9tl74GuKQzzAgMBAAGjgfEwge4wQAYIKwYBBQUHAQEE
+NDAyMDAGCCsGAQUFBzABhiRodHRwczovL2JhcmNsYXlzLW9jc3AxLnRydXN0d2lzZS5jb20wEgYD
+VR0TAQH/BAgwBgEB/wIBADAaBgNVHSAEEzARMA8GDSqGOgABvtB3AgEEAQEwDgYDVR0PAQH/BAQD
+AgEGMCoGA1UdEQQjMCGkHzAdMRswGQYDVQQDExJCYXJjMjA0OFByaXYxYi0yNTQwHQYDVR0OBBYE
+FJO7YBcu8P3DgeXy8sR2t1+EFBZXMB8GA1UdIwQYMBaAFJfnir3a3F5hiOb4J43JUGet5YYiMA0G
+CSqGSIb3DQEBCwUAA4IBAQBgfkv0CEArwUoSkfrcq7rPrDztLjZul5ijhhRU9bEGesJrYyu+V7Ac
+5dQl9W5eZOWphAoiE3OAqxzvFPiUU3+aBCILo7+c+e1/MvqtM/AR71yxcXnbqsLChChefbe+QNYb
+qyGF3qmarMs2jt1xsZbRTdEoYXEGkeYjmCKY6J5crD9+LiQtFd7UnhFtRfSC1S7cZSUJEHnrwvtO
+UcZ6sStb2uN1dlPbZ3sk2dFblfwsCT5tMEqjvDdEasfLFgtMezpUmfsajKMHlmAn/VHL38hurlRE
+mngBlhNOWTVPRqGe6LKOhLz/CiaRsNNGt6Fp2JbQ723V5xRPqQ9oOSyjzsfXMYICIzCCAh8CAQEw
+gYwweDEaMBgGA1UEChMRQmFyY2xheXMgQmFuayBQTEMxLDAqBgNVBAsTI1Rlc3QgQkFDUyBDdXN0
+b21lciBJZGVudGl0eSBDQSAoMTApMSwwKgYDVQQDEyNUZXN0IEJBQ1MgQ3VzdG9tZXIgSWRlbnRp
+dHkgQ0EgKDEwKQIQTmHvB4oWiLHwNUAAgFLe1zANBglghkgBZQMEAgEFAKBpMBgGCSqGSIb3DQEJ
+AzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTE4MDEyOTE2MzI0N1owLwYJKoZIhvcNAQkE
+MSIEIMc8o/1xGIjKDnFtLir2tY4RNyZosJjFnMBXWSlzrihxMA0GCSqGSIb3DQEBAQUABIIBAE6U
+hg1r0kLYJqWjRH+JvyrL0o9lVXpv2mvEuwkDWrZhBhRx07TFaHFMDH1Bd66iiL+GASQcQ08Mq3zF
+t18MaE6ReM9zkEX22xUxaQUF7EBJ+1TSt/F2bXRBT2JlcOKM+MTGr9YaC4NZeAIRPepQNoF4a3xB
+awgIPl5d9oDLo8i2rt25fBvqkuG0SaUlbX+c7S3oQHPC1z2E+Z572UdAxQoOPrukoby0nH2oy9CN
+H9zTvz8JHHrXM6lNWsxGS1d6Ps2066JlfQkZQT/RIqfMUEsYrvCbgtJPf3SJvd/Qv2865POQclxo
+lJ9eFKbb9p4coMKa4vY3CsZez8VQv30x6xc=</Signature></BACSDocument>

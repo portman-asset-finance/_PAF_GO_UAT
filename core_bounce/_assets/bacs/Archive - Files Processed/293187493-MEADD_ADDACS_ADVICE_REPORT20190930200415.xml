@@ -1,0 +1,89 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BACSDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="newbacs-advices.xsd">
+   <Data>
+      <MessagingAdvices>
+         <MessagingHeader document-number="0" advice-type="ADDACS" subject-first-aosn="00006671" subject-last-aosn="00006685" user-number="913005" stream-identifier="0" envelope-sequence-number="00002567" report-generation-date="2019-09-30" user-name="Blackrock Secured Finance Ltd " report-type="7001"/>
+         <AddresseeInformation name=" "/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="APEL1651R-5" payer-name="K L NEWELL" payer-account-number="60842818" payer-sort-code="202634" reason-code="1" aosn="00006671"/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="APEL3442" payer-name="N.Y. DEISGN PRACTI" payer-account-number="50474517" payer-sort-code="203713" reason-code="1" aosn="00006672"/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="APEL3491-1" payer-name="ROSIELLES FLOWERS" payer-account-number="11559428" payer-sort-code="236972" reason-code="1" aosn="00006673"/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="APEL3583" payer-name="CJSL LIMITED" payer-account-number="90270679" payer-sort-code="204545" reason-code="1" aosn="00006674"/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="APEL3643-1" payer-name="I COL P &amp; H T/AS" payer-account-number="70973203" payer-sort-code="200574" reason-code="1" aosn="00006675"/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="APEL3727-2" payer-name="MR JAMES YOUNG" payer-account-number="45557236" payer-sort-code="087199" reason-code="1" aosn="00006676"/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="APEL3727-2" payer-name="MR JAMES YOUNG" payer-account-number="45557236" payer-sort-code="087199" reason-code="1" aosn="00006677"/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="APEL3780" payer-name="HIRD ENVIRONMENTAL" payer-account-number="03674525" payer-sort-code="201181" reason-code="1" aosn="00006678"/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="APEL965-3" payer-name="SANCTUM LONDON" payer-account-number="73372340" payer-sort-code="200158" reason-code="1" aosn="00006679"/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="BR3981-2" payer-name="THE SPA AT 142 LTD" payer-account-number="58830634" payer-sort-code="607008" reason-code="1" aosn="00006680"/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="BR4205" payer-account-number="46528291" payer-sort-code="231884" reason-code="0" aosn="00006681"/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="BR4210" payer-name="P ELSAGOOD TRANSPO" payer-account-number="73822060" payer-sort-code="201893" reason-code="1" aosn="00006682"/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="BR4502-1" payer-name="MR MICHAEL JACKSON" payer-account-number="75552388" payer-sort-code="087199" reason-code="1" aosn="00006683"/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="BR4512" payer-name="STYB KEN LTD SW" payer-account-number="33820831" payer-sort-code="201720" reason-code="1" aosn="00006684"/>
+         <MessagingAdvice user-number="913005" record-type="A" effective-date="2019-09-30" reference="HRF-APEL1009" payer-name="HR FEATHERSTONE" payer-account-number="90330485" payer-sort-code="208120" reason-code="1" aosn="00006685"/>
+         <MessagingError/>
+      </MessagingAdvices>
+   </Data><SignatureMethod>Vanilla</SignatureMethod><Signature>MIIOjgYJKoZIhvcNAQcCoIIOfzCCDnsCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCDBMw
+ggaFMIIFbaADAgECAhBAAVz5Jmn0EwV3cNET1o8HMA0GCSqGSIb3DQEBBQUAMIGnMScwJQYDVQQK
+DB5UaGUgUm95YWwgQmFuayBvZiBTY290bGFuZCBwbGMxQzBBBgNVBAsMOlRoZSBSb3lhbCBCYW5r
+IG9mIFNjb3RsYW5kIHBsYyBUcnVzdEFzc3VyZWQgSW5mcmFzdHJ1Y3R1cmUxNzA1BgNVBAMMLlRo
+ZSBSb3lhbCBCYW5rIG9mIFNjb3RsYW5kIFBsYyBUcnVzdEFzc3VyZWQgQ0EwHhcNMTcwNjMwMTMx
+NzQzWhcNMjAwNjI5MTMxNzQzWjBTMQswCQYDVQQGEwJHQjEVMBMGA1UEChMMVm9jYUxpbmsgTHRk
+MRMwEQYDVQQLEwpCQUNTVEVMLUlQMRgwFgYDVQQDEw9SQlNHIFBST0QgQVAxMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDRVcLsAJJ4qY99mzdYMh97V3Xs/L/aEDKRfAivxsU7GOmN
+4ZjRttXgk+oS/EDzIT/eSEQMDFFAVBWMwkX5pL3ipRtLCMzPSg+ugdCKBXpiHaqIDB01F/y3Ctef
+f2HzKX9U+HufJ7nEpHZVRXqoMZ3bHSJpl2oGwWOXzl3+V3UjabCk6LRIXysD3fDX6xTxcuGXPPyX
+0HoYDCvzFpfpAiCCTThmwaRwpOGhXqOfF4L0uhJ3saGRCciy2X4o2cPdMKHoumPJhVILcoVKil8N
+w1mcSjl2eyEd4+9tWSO1YFBnolYFxymPe0zM805l1W4TpLA/YhMOoe8sWJbAad+4F6UFAgMBAAGj
+ggL+MIIC+jAOBgNVHQ8BAf8EBAMCBsAwPgYIKwYBBQUHAQEEMjAwMC4GCCsGAQUFBzABhiJodHRw
+czovL3Jic2lpLm9jc3B0bi5pZGVudHJ1c3QuY29tMB8GA1UdIwQYMBaAFGMXwIHUvw+pZjGW+hfB
+sMraFwLQMIICHAYDVR0gBIICEzCCAg8wgecGCSqGSIb6ZQEKATCB2TCB1gYIKwYBBQUHAgIwgcka
+gcZUaGlzIENlcnRpZmljYXRlIG1heSBiZSByZWxpZWQgdXBvbiBvbmx5IGJ5IGVpdGhlcjogKDEp
+IGEgUmVseWluZyBDdXN0b21lciBvZiBhbiBJZGVuVHJ1c3QgUGFydGljaXBhbnQsIG9yICgyKSBh
+IHBhcnR5IGJvdW5kIHRvIHRoZSBhbHRlcm5hdGl2ZSBwb2xpY3kgcmVnaW1lIHNwZWNpZmllZCBl
+bHNld2hlcmUgaW4gdGhpcyBDZXJ0aWZpY2F0ZS4wggEhBg8qhjoAAoXBSAoBAgEBBAAwggEMMIIB
+CAYIKwYBBQUHAgIwgfsagfhUaGlzIENlcnRpZmljYXRlIGlzIGZvciB0aGUgc29sZSB1c2Ugb2Yg
+UkJTLCB0aGVpciBjdXN0b21lcnMsIGFuZCBvdGhlciBjb250cmFjdGVkIHBhcnRpZXMgb2YgYXNz
+b2NpYXRlZCBzdXBwb3J0ZWQgU2NoZW1lcy4gUkJTIGFjY2VwdHMgbm8gbGlhYmlsaXR5IGZvciBh
+bnkgY2xhaW0gZXhjZXB0IGFzIGV4cHJlc3NseSBwcm92aWRlZCBpbiBpdHMgQnVzaW5lc3MgQ3Vz
+dG9tZXIgQWdyZWVtZW50IFRlcm1zIGFuZCBDb25kaXRpb25zLjAuBgNVHREEJzAlgSNCYWNzLlNl
+cnZpY2VNYW5hZ2VtZW50QHZvY2FsaW5rLmNvbTAdBgNVHQ4EFgQUjlNU/ucVm8lr8TcFItCmgGBP
+ATgwGAYIKwYBBQUHAQMEDDAKMAgGBgQAjkYBATANBgkqhkiG9w0BAQUFAAOCAQEAUqMw4r2aMzKI
+fLY+rZCJ/SreVv4tR0bijgFhqMg/z0YGcsx0lx5VoelW7V95bvl26qof5UISNdBQFqWtD7EpCJPU
+PJWG+Os/stxBRGg4tGp/BgXiO0JChzGlMIlTSaBuFmUwSg+v163P3t5wePQVHwU+clQ/wy00dijX
+cEB0GDs8qBM6Yl7szhCm4TNYTXMwymv0CnLCg3fafdgXlKdaDhpH3hXI/a87DOXvN9CHj/1zUTqt
+64XKPLc38Yxf7Q/n3zaIXEcaSJU6LIpJIZAWvzSrWdnYDigTOoLjxJK87I+BoR652N5kY8L5FL0E
+hERYYTn5wOBWWwuH4SSNG6zcHDCCBYYwggRuoAMCAQICEAoBQUIAAAFBnhianAAAAAIwDQYJKoZI
+hvcNAQEFBQAwdzEXMBUGA1UEChMOSWRlblRydXN0IEluYy4xLTArBgNVBAsTJElkZW5UcnVzdCBS
+b290IENlcnRpZmljYXRlIEF1dGhvcml0eTEtMCsGA1UEAxMkSWRlblRydXN0IFJvb3QgQ2VydGlm
+aWNhdGUgQXV0aG9yaXR5MB4XDTEzMTAwOTE2NDE1NFoXDTIwMTAwOTE2NDE1NFowgacxJzAlBgNV
+BAoMHlRoZSBSb3lhbCBCYW5rIG9mIFNjb3RsYW5kIHBsYzFDMEEGA1UECww6VGhlIFJveWFsIEJh
+bmsgb2YgU2NvdGxhbmQgcGxjIFRydXN0QXNzdXJlZCBJbmZyYXN0cnVjdHVyZTE3MDUGA1UEAwwu
+VGhlIFJveWFsIEJhbmsgb2YgU2NvdGxhbmQgUGxjIFRydXN0QXNzdXJlZCBDQTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAMuQuSGpH/sbwmVnlhQNsW/lE1gNsHxM2rrRgKMCGHoXXPwr
+9GG1BEPiLTl9tfuXHlxqnp7EIJDpqHiG6+uhDupLpYO2i/JmBErKLI/kljHJVkCsJ+wvgOXEN+1o
+c0VwbFNDkqQdfOBD9dBUnaZNfuAFg4lRuvCl2RW5+dOJ44nq7S2zdtBluwKOuRN0EZXXS4uJv39u
+f5gqjOvOLJc9N+f9ZW0c/u2jQLfR6A9zy9V7+uO7khiOMM5DNBBfEmk6njWrZ1O2DjzrU5LKWEqI
+azHcWKRGfenBTBRv0SwO6iHNlR+SFyLXiCMCRk8mKgxA6KIqKo3031UBJDbImePplk0CAwEAAaOC
+AdswggHXMA4GA1UdDwEB/wQEAwIB/jASBgNVHRMBAf8ECDAGAQH/AgEHMIHyBgNVHSAEgeowgecw
+geQGCSqGSIb6ZQEGATCB1jCB0wYIKwYBBQUHAgIwgcYagcNUaGlzIGNlcnRpZmljYXRlIGlzIGZv
+ciB0aGUgc29sZSB1c2Ugb2YgSWRlblRydXN0LCBpdHMgUGFydGljaXBhbnRzIGFuZCB0aGVpciBj
+dXN0b21lcnMuIElkZW5UcnVzdCBhY2NlcHRzIG5vIGxpYWJpbGl0eSBmb3IgYW55IGNsYWltIGV4
+Y2VwdCBhcyBleHByZXNzbHkgcHJvdmlkZWQgaW4gaXRzIE9wZXJhdGluZyBSdWxlcyBJTC1PUFJV
+TC4wHQYDVR0OBBYEFGMXwIHUvw+pZjGW+hfBsMraFwLQMHwGCCsGAQUFBwEBBHAwbjA2BggrBgEF
+BQcwAYYqaHR0cHM6Ly9pZGVudHJ1c3Ryb290Lm9jc3B0bi5pZGVudHJ1c3QuY29tMDQGCCqGSIb6
+ZQQBhihodHRwczovL2lkZW50cnVzdHJvb3QudGN0bi5pZGVudHJ1c3QuY29tMB8GA1UdIwQYMBaA
+FHTYCfZJJ5sEGhlj+mErc/+dbkk9MA0GCSqGSIb3DQEBBQUAA4IBAQC7sGDJo/XylmrN2Efvjyi1
+W27iOooPfsVgAYZ/UGbaPjvcMmn/xJE2KBC/SFIodL85kEunCjBkqB8eb19H2Q9gnsd/lFht5nG4
+49obpxPOs4FsRSZSaadWjBLnajmSdGmTbQX3u9mdv/IrvhGpcG+Te07kNmvmbqP13pfryKXZ+ekx
+iX/JZ7/A+dCEVC+tSGoeDWBa1feX2TuVUcSrCVdoYVNbroKOQJ94wjsN7imhh5GtNq940wQl4W4r
+CwzL6+JJ4VXWt4nCjtruuKCI0jAIDMZmdCYsxZ4slR4foK2yVZXNc9Rjm0q9Kb5AdJQC9L/4kKgx
+mgYxCcVBsht3N1klMYICQzCCAj8CAQEwgbwwgacxJzAlBgNVBAoMHlRoZSBSb3lhbCBCYW5rIG9m
+IFNjb3RsYW5kIHBsYzFDMEEGA1UECww6VGhlIFJveWFsIEJhbmsgb2YgU2NvdGxhbmQgcGxjIFRy
+dXN0QXNzdXJlZCBJbmZyYXN0cnVjdHVyZTE3MDUGA1UEAwwuVGhlIFJveWFsIEJhbmsgb2YgU2Nv
+dGxhbmQgUGxjIFRydXN0QXNzdXJlZCBDQQIQQAFc+SZp9BMFd3DRE9aPBzAJBgUrDgMCGgUAoF0w
+GAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMTkwOTMwMTk0ODA1WjAj
+BgkqhkiG9w0BCQQxFgQU1I0T7jEgusua2cvKS8/p55fl9kAwDQYJKoZIhvcNAQEBBQAEggEAvMHB
+WKYuQsO1wVmYOK3QVKXDpaBLrprYZDoQKV8oMGr0baHGnkEivpBjmgv7/d4E9990sbeo0/PBTxIZ
+uxFDP8Ti+HZd18UNDi72sZtnYxRscZM2Xn57tK8cTUEUUMGxWVQsnMYzBm01M52xgyR4o4PsMpev
+hwONZgaLpKkjTugLX0s6T7fV50NoxwlXCkV7+RIrmWm/SruGPyeDDEyPHa71bzE1Y6wvVQ4RpubM
+QFPN6vzSGTl5Zn/mAGOOlpwASun3IfeuMzwV/Aq3bZ6c7+Gd7+/vapjiCuyGlllaXbj2gqgNG9vr
+qPvcVPvKPIWGIzQd1WRCNuEYS2FMv3P17Q==</Signature></BACSDocument>

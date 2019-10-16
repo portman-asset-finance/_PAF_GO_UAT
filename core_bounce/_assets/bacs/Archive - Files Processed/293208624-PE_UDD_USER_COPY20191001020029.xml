@@ -1,0 +1,781 @@
+<?xml version = '1.0' encoding = 'ISO-8859-1'?>
+<BACSDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="newbacs-advices.xsd">
+   <Data>
+      <ARUDD>
+         <Header reportType="REFT1019" adviceNumber="999" currentProcessingDate="2019-10-01"/>
+         <AddresseeInformation name="Blackrock Secured Finance Ltd "/>
+         <ServiceLicenseInformation userName="Blackrock Secured Finance Ltd " userNumber="913005"/>
+         <Advice>
+            <OriginatingAccountRecords>
+               <OriginatingAccountRecord>
+                  <OriginatingAccount name="BLUEROCK SEC" number="05769981" sortCode="18-00-02" type="0" bankName="COUTTS" branchName="STRAND"/>
+                  <ReturnedDebitItem ref="APEL1072-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1517.24" currency="GBP">
+                     <PayerAccount number="41007514" ref="APEL1072-1        " name="G CAMSEY          " sortCode="54-30-46" bankName="NAT WEST BANK PLC" branchName="HARROGATE (B)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1080          " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="1226.40" currency="GBP">
+                     <PayerAccount number="31571921" ref="APEL1080          " name="HOPE NURSERY      " sortCode="56-00-09" bankName="NAT WEST BANK PLC" branchName="SHEFFIELD, CITY CENTRE"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1216-1        " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="3839.28" currency="GBP">
+                     <PayerAccount number="61816284" ref="APEL1216-1        " name="HANCOCKS RESTAURAN" sortCode="40-42-04" bankName="HSBC UK BANK PLC" branchName="SITTINGBOURNE"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1217R-1       " transCode="17" returnCode="B270" returnDescription="ACCOUNT CLOSED" originalProcessingDate="2019-09-27" valueOf="915.05" currency="GBP">
+                     <PayerAccount number="63768570" ref="APEL1217R-1       " name="HR COLLECTABLES LT" sortCode="20-78-58" bankName="BARCLAYS BANK UK PLC" branchName="SLOUGH QUEENSMERE"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1328          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="555.44" currency="GBP">
+                     <PayerAccount number="05848880" ref="APEL1328          " name="HALPIN &amp; SON KITCH" sortCode="07-04-36" bankName="NATIONWIDE BLDG SCTY" branchName="Current Account 2014"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1479-5        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="490.56" currency="GBP">
+                     <PayerAccount number="10115064" ref="APEL1479-5        " name="DH DETAILING      " sortCode="11-01-82" bankName="HALIFAX" branchName="CHESTER LE STREET"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1551-2        " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="4179.21" currency="GBP">
+                     <PayerAccount number="28382919" ref="APEL1551-2        " name="PERSPECTIVE PROP L" sortCode="60-24-77" bankName="NAT WEST BANK PLC" branchName="DIRECT BUSINESS BANKING"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1617          " transCode="17" returnCode="B270" returnDescription="ACCOUNT CLOSED" originalProcessingDate="2019-09-27" valueOf="898.80" currency="GBP">
+                     <PayerAccount number="63893774" ref="APEL1617          " name="LIBERTY MARSH     " sortCode="20-44-91" bankName="BARCLAYS BANK UK PLC" branchName="ISLINGTON 2"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1651R-5       " transCode="01" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="433.00" currency="GBP">
+                     <PayerAccount number="60842818" ref="APEL1651R-5       " name="K L NEWELL        " sortCode="20-26-34" bankName="BARCLAYS BANK UK PLC" branchName="DISS"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1688-2        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1383.00" currency="GBP">
+                     <PayerAccount number="60089868" ref="APEL1688-2        " name="TEJU PROPERTY SERV" sortCode="30-96-18" bankName="LLOYDS BANK PLC" branchName="PARLIAMENT ST (309618)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1691R-2       " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="350.00" currency="GBP">
+                     <PayerAccount number="00373184" ref="APEL1691R-2       " name="CREDIBILITY ASSESS" sortCode="20-29-77" bankName="BARCLAYS BANK UK PLC" branchName="ENFIELD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1702-2        " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="806.40" currency="GBP">
+                     <PayerAccount number="17233760" ref="APEL1702-2        " name="LOW SIMONSIDE NEWS" sortCode="30-94-68" bankName="LLOYDS BANK PLC" branchName="KETTERING (309468)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1707          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2596.80" currency="GBP">
+                     <PayerAccount number="39282600" ref="APEL1707          " name="MALT MANCHESTER LT" sortCode="01-05-31" bankName="NAT WEST BANK PLC" branchName="MANCHESTER SPINNINGFIELDSSQ"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1708          " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="1297.60" currency="GBP">
+                     <PayerAccount number="74040030" ref="APEL1708          " name="FAIRBAIRNS LTD    " sortCode="51-61-33" bankName="NAT WEST BANK PLC" branchName="BISHOP AUCKLAND (A)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1788          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="603.00" currency="GBP">
+                     <PayerAccount number="20980293" ref="APEL1788          " name="M16 TAXIS         " sortCode="20-25-36" bankName="BARCLAYS BANK UK PLC" branchName="DIRECT BANKING 2"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1801          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1650.40" currency="GBP">
+                     <PayerAccount number="86003623" ref="APEL1801          " name="P W GROOM         " sortCode="55-81-16" bankName="NAT WEST BANK PLC" branchName="MARKET DRAYTON (A)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1807          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1729.60" currency="GBP">
+                     <PayerAccount number="87417545" ref="APEL1807          " name="VOLKSFARMERS LTD  " sortCode="09-01-28" bankName="Santander" branchName="BANK ACCOUNT 3"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1814          " transCode="17" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="2841.60" currency="GBP">
+                     <PayerAccount number="90080667" ref="APEL1814          " name="LINSKILLS         " sortCode="20-51-43" bankName="BARCLAYS BANK UK PLC" branchName="LPOOL CITY BUS 9"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1818          " transCode="17" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="1638.40" currency="GBP">
+                     <PayerAccount number="04118109" ref="APEL1818          " name="PK &amp; P FOOTE LTD  " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1826          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1431.60" currency="GBP">
+                     <PayerAccount number="10080561" ref="APEL1826          " name="WEVE GOT BALLS    " sortCode="11-13-66" bankName="HALIFAX" branchName="CHERTSEY"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1877-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1108.00" currency="GBP">
+                     <PayerAccount number="43374661" ref="APEL1877-1        " name="INTRA TELECARE LIM" sortCode="20-54-25" bankName="BARCLAYS BANK UK PLC" branchName="MAIDSTONE 2"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1923-2        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1794.92" currency="GBP">
+                     <PayerAccount number="83528626" ref="APEL1923-2        " name="MR ABS HOLGATE    " sortCode="20-84-58" bankName="BARCLAYS BANK UK PLC" branchName="SWINDON REGENT STREET"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL1943          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="577.60" currency="GBP">
+                     <PayerAccount number="01681508" ref="APEL1943          " name="YO YOS GYM        " sortCode="40-16-23" bankName="HSBC UK BANK PLC" branchName="CARMARTHEN"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2004-4        " transCode="01" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="577.60" currency="GBP">
+                     <PayerAccount number="35383971" ref="APEL2004-4        " name="OFF THE GRID CUSTO" sortCode="05-05-70" bankName="YORKSHIRE BANK" branchName="MALTON"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2014-6        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1606.00" currency="GBP">
+                     <PayerAccount number="21861248" ref="APEL2014-6        " name="MR C C MILLER     " sortCode="09-01-29" bankName="Santander" branchName="BANK ACCOUNT 4"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2044          " transCode="17" returnCode="B270" returnDescription="ACCOUNT CLOSED" originalProcessingDate="2019-09-27" valueOf="1400.80" currency="GBP">
+                     <PayerAccount number="50883972" ref="APEL2044          " name="THE DUCHY POT LTD " sortCode="20-41-41" bankName="BARCLAYS BANK UK PLC" branchName="HOLBORN"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2057-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="605.93" currency="GBP">
+                     <PayerAccount number="00084033" ref="APEL2057-1        " name="MOMOS             " sortCode="11-06-69" bankName="HALIFAX" branchName="ST HELENS   HARDSHAW STREET"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2061          " transCode="17" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="1626.40" currency="GBP">
+                     <PayerAccount number="23184692" ref="APEL2061          " name="AYP HEALTHCARE    " sortCode="20-69-85" bankName="BARCLAYS BANK UK PLC" branchName="PRESTON"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2066          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="588.00" currency="GBP">
+                     <PayerAccount number="04758763" ref="APEL2066          " name="FINATRAN LIMITED  " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2122-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="798.00" currency="GBP">
+                     <PayerAccount number="24708254" ref="APEL2122-1        " name="TIME 2 B LTD      " sortCode="23-05-80" bankName="METRO BANK" branchName="London"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2132-1        " transCode="01" returnCode="8270" returnDescription="AMOUNT NOT DUE" originalProcessingDate="2019-09-27" valueOf="4170.00" currency="GBP">
+                     <PayerAccount number="54113411" ref="APEL2132-1        " name="1855 OXFORD LIMITE" sortCode="40-35-34" bankName="HSBC UK BANK PLC" branchName="OXFORD CORNMARKET STREET"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2135          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="685.20" currency="GBP">
+                     <PayerAccount number="51659968" ref="APEL2135          " name="A HALL PROJECT MAN" sortCode="77-21-04" bankName="LLOYDS BANK PLC" branchName="CORBY (772104)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2159          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1677.60" currency="GBP">
+                     <PayerAccount number="53106195" ref="APEL2159          " name="MUSIC ZONE ONE    " sortCode="20-46-57" bankName="BARCLAYS BANK UK PLC" branchName="KINGSLAND"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2166-1        " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="456.00" currency="GBP">
+                     <PayerAccount number="29256460" ref="APEL2166-1        " name="L VELA            " sortCode="09-01-29" bankName="Santander" branchName="BANK ACCOUNT 4"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2253-6        " transCode="01" returnCode="B270" returnDescription="ACCOUNT CLOSED" originalProcessingDate="2019-09-27" valueOf="996.00" currency="GBP">
+                     <PayerAccount number="91724142" ref="APEL2253-6        " name="KIAN PALMER       " sortCode="40-03-11" bankName="HSBC UK BANK PLC" branchName="GOLDERSGREEN CROSS RDS NW11"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2291          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1917.60" currency="GBP">
+                     <PayerAccount number="30723860" ref="APEL2291          " name="LBK HOSPITALITY   " sortCode="77-74-23" bankName="LLOYDS BANK PLC" branchName="MEXBOROUGH (777423)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2335-1        " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="571.00" currency="GBP">
+                     <PayerAccount number="26386519" ref="APEL2335-1        " name="R KHANS FOODS     " sortCode="23-05-80" bankName="METRO BANK" branchName="London"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2337-5        " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="685.20" currency="GBP">
+                     <PayerAccount number="34441768" ref="APEL2337-5        " name="DBGUK LTD         " sortCode="30-96-26" bankName="LLOYDS BANK PLC" branchName="OLDHAM"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2346          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="937.00" currency="GBP">
+                     <PayerAccount number="13264041" ref="APEL2346          " name="B E J WRIGHT      " sortCode="20-82-13" bankName="BARCLAYS BANK UK PLC" branchName="STOCKPORT 3"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2407-3        " transCode="01" returnCode="B270" returnDescription="ACCOUNT CLOSED" originalProcessingDate="2019-09-27" valueOf="698.00" currency="GBP">
+                     <PayerAccount number="10684384" ref="APEL2407-3        " name="WEIGHTLOSS LTD    " sortCode="09-01-29" bankName="Santander" branchName="BANK ACCOUNT 4"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2436          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2497.60" currency="GBP">
+                     <PayerAccount number="53077810" ref="APEL2436          " name="ABOUT TIME SOLUTIO" sortCode="20-84-58" bankName="BARCLAYS BANK UK PLC" branchName="SWINDON REGENT STREET"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2437-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="498.00" currency="GBP">
+                     <PayerAccount number="04048601" ref="APEL2437-1        " name="MR M J POWELL     " sortCode="40-34-18" bankName="HSBC UK BANK PLC" branchName="NEWCASTLE/TYNE CITY BRANCH"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2439          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2944.80" currency="GBP">
+                     <PayerAccount number="21202812" ref="APEL2439          " name="CHRISTOPHER P GOOD" sortCode="40-24-41" bankName="HSBC UK BANK PLC" branchName="Congleton"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2440          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="375.00" currency="GBP">
+                     <PayerAccount number="05933290" ref="APEL2440          " name="JAMILS PETSHOP LTD" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2447          " transCode="17" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="1631.20" currency="GBP">
+                     <PayerAccount number="75220260" ref="APEL2447          " name="MANUKA BAR AND KIT" sortCode="30-99-93" bankName="LLOYDS BANK PLC" branchName="SOUTH STR WORTHING 309993"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2456-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="449.00" currency="GBP">
+                     <PayerAccount number="05917665" ref="APEL2456-1        " name="THE CHIPPY LLANDY " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2469-4        " transCode="01" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="998.00" currency="GBP">
+                     <PayerAccount number="25735162" ref="APEL2469-4        " name="JAMES QUINN &amp; CI  " sortCode="30-94-42" bankName="LLOYDS BANK PLC" branchName="STAINES (309442)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2470-3        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2764.40" currency="GBP">
+                     <PayerAccount number="71646116" ref="APEL2470-3        " name="SWANSEA COACHWORKS" sortCode="51-61-15" bankName="NAT WEST BANK PLC" branchName="LLANELLI (A)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2473-4        " transCode="17" returnCode="B270" returnDescription="ACCOUNT CLOSED" originalProcessingDate="2019-09-27" valueOf="1193.00" currency="GBP">
+                     <PayerAccount number="59242581" ref="APEL2473-4        " name="SOUL CENTRAL MAGAZ" sortCode="23-18-84" bankName="SPS LTD" branchName="SPECTRUM T/A CARDONE"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2568          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3193.00" currency="GBP">
+                     <PayerAccount number="06432581" ref="APEL2568          " name="NATALIA AND NIVA L" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2589-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="623.40" currency="GBP">
+                     <PayerAccount number="88285556" ref="APEL2589-1        " name="PREMIER RETAILERS " sortCode="09-01-28" bankName="Santander" branchName="BANK ACCOUNT 3"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2608-3        " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2538.00" currency="GBP">
+                     <PayerAccount number="39529704" ref="APEL2608-3        " name="SHERMAE MURRAINE T" sortCode="09-01-26" bankName="Santander" branchName="BANK ACCOUNT 1"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2641-2        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="997.20" currency="GBP">
+                     <PayerAccount number="01222803" ref="APEL2641-2        " name="JUST ONE BEAUTY LT" sortCode="09-01-27" bankName="Santander" branchName="SANTANDER BANK ACCOUNT"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2656          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="7497.60" currency="GBP">
+                     <PayerAccount number="06616415" ref="APEL2656          " name="ICONIC BESPOKE VEH" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2667          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1906.00" currency="GBP">
+                     <PayerAccount number="10030282" ref="APEL2667          " name="KATHRYN SMITH T/A " sortCode="16-12-24" bankName="ROYAL BANK OF SCOT" branchName="Drummond House (C)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2674          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3796.40" currency="GBP">
+                     <PayerAccount number="89841409" ref="APEL2674          " name="SERENISSIMA LTD   " sortCode="60-24-20" bankName="NAT WEST BANK PLC" branchName="WOKING"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2699          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1917.60" currency="GBP">
+                     <PayerAccount number="35158460" ref="APEL2699          " name="MY FEST1VAL EVENTS" sortCode="30-96-26" bankName="LLOYDS BANK PLC" branchName="OLDHAM"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2737          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2156.41" currency="GBP">
+                     <PayerAccount number="32028743" ref="APEL2737          " name="TURTLE BUILDING   " sortCode="40-42-49" bankName="HSBC UK BANK PLC" branchName="SHEFFIELD MEADOWHALL-NNNDC"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2748-3        " transCode="01" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="997.20" currency="GBP">
+                     <PayerAccount number="21240048" ref="APEL2748-3        " name="R M ELECTRICAL -TY" sortCode="40-44-27" bankName="HSBC UK BANK PLC" branchName="Dolgellau"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2751-3        " transCode="01" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="971.20" currency="GBP">
+                     <PayerAccount number="42183293" ref="APEL2751-3        " name="BYRON WITHERS CARP" sortCode="40-14-14" bankName="HSBC UK BANK PLC" branchName="BRISTOL FILTON"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2757          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1470.40" currency="GBP">
+                     <PayerAccount number="12468278" ref="APEL2757          " name="WATTS PUBS LTD    " sortCode="09-01-29" bankName="Santander" branchName="BANK ACCOUNT 4"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2769-2        " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="735.60" currency="GBP">
+                     <PayerAccount number="30195568" ref="APEL2769-2        " name="A.S ELECTRICAL INS" sortCode="30-90-89" bankName="LLOYDS BANK PLC" branchName="BLACKHEATH LONDON"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2771          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1297.60" currency="GBP">
+                     <PayerAccount number="52526460" ref="APEL2771          " name="PALM BAYCARIBBEANL" sortCode="30-98-97" bankName="LLOYDS BANK PLC" branchName="Victoria (309897)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2859-2        " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="633.00" currency="GBP">
+                     <PayerAccount number="16912926" ref="APEL2859-2        " name="IRVINE &amp; PETERS   " sortCode="60-24-37" bankName="NAT WEST BANK PLC" branchName="YEOVIL"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2877          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1887.60" currency="GBP">
+                     <PayerAccount number="06858546" ref="APEL2877          " name="WATTS FAMILY LTD  " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2928          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="495.56" currency="GBP">
+                     <PayerAccount number="07283579" ref="APEL2928          " name="PRETTY AND POLISHE" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2929          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1122.00" currency="GBP">
+                     <PayerAccount number="21603000" ref="APEL2929          " name="ASHLEY READ PROPER" sortCode="40-27-07" bankName="HSBC UK BANK PLC" branchName="LEATHERHEAD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2930-3        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="396.00" currency="GBP">
+                     <PayerAccount number="07369253" ref="APEL2930-3        " name="THE FAT MONKEY    " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2939-2        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1652.80" currency="GBP">
+                     <PayerAccount number="37081168" ref="APEL2939-2        " name="NINA MCLOUGHLIN   " sortCode="30-84-82" bankName="LLOYDS BANK PLC" branchName="WHICKHAM (308482)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2947-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="792.00" currency="GBP">
+                     <PayerAccount number="23445895" ref="APEL2947-1        " name="GEH SERVICES LTD  " sortCode="20-29-50" bankName="BARCLAYS BANK UK PLC" branchName="ELLESMERE PORT"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2952-1        " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="792.00" currency="GBP">
+                     <PayerAccount number="57920368" ref="APEL2952-1        " name="S &amp; A FOOD &amp; WINE " sortCode="30-94-51" bankName="LLOYDS BANK PLC" branchName="ILFORD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2953-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="991.20" currency="GBP">
+                     <PayerAccount number="38685396" ref="APEL2953-1        " name="WARRIOR SOUL CLOTH" sortCode="56-00-36" bankName="NAT WEST BANK PLC" branchName="BRADFORD BROADWAY"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2955          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="857.00" currency="GBP">
+                     <PayerAccount number="06954451" ref="APEL2955          " name="ENVIOUS HAIR LTD  " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2970-2        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1298.00" currency="GBP">
+                     <PayerAccount number="80829996" ref="APEL2970-2        " name="TAXI AND CAR HIRE " sortCode="51-70-06" bankName="NAT WEST BANK PLC" branchName="BEESTON"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2971          " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="660.00" currency="GBP">
+                     <PayerAccount number="70217660" ref="APEL2971          " name="SOVEREIGN FM CONSU" sortCode="30-90-91" bankName="LLOYDS BANK PLC" branchName="CAERPHILLY (309091)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL2974          " transCode="17" returnCode="B270" returnDescription="ACCOUNT CLOSED" originalProcessingDate="2019-09-27" valueOf="571.00" currency="GBP">
+                     <PayerAccount number="25353419" ref="APEL2974          " name="Y VEGAN LIMITED   " sortCode="09-01-29" bankName="Santander" branchName="BANK ACCOUNT 4"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3070-3        " transCode="17" returnCode="B270" returnDescription="ACCOUNT CLOSED" originalProcessingDate="2019-09-27" valueOf="1042.80" currency="GBP">
+                     <PayerAccount number="32499088" ref="APEL3070-3        " name="BOSRA LIMITED     " sortCode="40-07-30" bankName="HSBC UK BANK PLC" branchName="WIMBLEDON HILL ROAD SW19"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3074-3        " transCode="01" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="332.50" currency="GBP">
+                     <PayerAccount number="04076260" ref="APEL3074-3        " name="AMP-TEC SERVICES L" sortCode="77-69-69" bankName="TSB" branchName="LUTON"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3076          " transCode="17" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="1972.00" currency="GBP">
+                     <PayerAccount number="50271059" ref="APEL3076          " name="OMNIMA LIMITED    " sortCode="60-70-03" bankName="NAT WEST BANK PLC" branchName="OXFORD, CENTRAL (B)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3086-3        " transCode="01" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="1198.00" currency="GBP">
+                     <PayerAccount number="66479160" ref="APEL3086-3        " name="MISS TANYA MCLEAN " sortCode="77-49-26" bankName="LLOYDS BANK PLC" branchName="Lloyds Bank Digital Sales"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3093-5        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="139.17" currency="GBP">
+                     <PayerAccount number="17430769" ref="APEL3093-5        " name="SMALL BUSINESS NET" sortCode="05-05-35" bankName="YORKSHIRE BANK" branchName="KEIGHLEY"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3100          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="832.00" currency="GBP">
+                     <PayerAccount number="03223124" ref="APEL3100          " name="MEZO RESTAURANT   " sortCode="20-65-20" bankName="BARCLAYS BANK UK PLC" branchName="OXFORD CITY 2"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3102          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2256.40" currency="GBP">
+                     <PayerAccount number="80516660" ref="APEL3102          " name="JERKPIT CARIBBEAN " sortCode="30-97-13" bankName="LLOYDS BANK PLC" branchName="MARKET PL ROMFORD (309713)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3105          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="6674.80" currency="GBP">
+                     <PayerAccount number="93973573" ref="APEL3105          " name="TRISANT FOODS LIMI" sortCode="20-94-48" bankName="BARCLAYS BANK UK PLC" branchName="WESTMINSTER ABBEY"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3116-2        " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="492.00" currency="GBP">
+                     <PayerAccount number="13354075" ref="APEL3116-2        " name="VAPOURESSENCE LIMI" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3143          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1971.60" currency="GBP">
+                     <PayerAccount number="23502703" ref="APEL3143          " name="JAKE OKEEFE T/A SH" sortCode="60-19-04" bankName="NAT WEST BANK PLC" branchName="SHEERNESS"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3180          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1088.40" currency="GBP">
+                     <PayerAccount number="80665209" ref="APEL3180          " name="MARIGOLD FOOTCARE " sortCode="52-10-33" bankName="NAT WEST BANK PLC" branchName="Edgware (A)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3197          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3732.00" currency="GBP">
+                     <PayerAccount number="70168025" ref="APEL3197          " name="CLIMATIC VENTILATI" sortCode="20-24-09" bankName="BARCLAYS BANK UK PLC" branchName="CREWE MARKET STREET"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3203-2        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1346.80" currency="GBP">
+                     <PayerAccount number="58333967" ref="APEL3203-2        " name="SECURE CARD PAYMEN" sortCode="60-01-35" bankName="NAT WEST BANK PLC" branchName="BANBURY"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3211-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="562.00" currency="GBP">
+                     <PayerAccount number="83144089" ref="APEL3211-1        " name="SHELLY JACKSON    " sortCode="20-19-96" bankName="BARCLAYS BANK UK PLC" branchName="UNIVERSAL BANK 4"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3212-2        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="5337.60" currency="GBP">
+                     <PayerAccount number="42143933" ref="APEL3212-2        " name="STADN LIMITED     " sortCode="40-07-13" bankName="HSBC UK BANK PLC" branchName="Belgravia"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3214-2        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3835.20" currency="GBP">
+                     <PayerAccount number="20941768" ref="APEL3214-2        " name="XANDER INDUSTRIES " sortCode="30-15-39" bankName="LLOYDS BANK PLC" branchName="MARKET DRAYTON (301539)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3217          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="6321.60" currency="GBP">
+                     <PayerAccount number="18562596" ref="APEL3217          " name="NP SIMULATIONS UK " sortCode="23-05-80" bankName="METRO BANK" branchName="London"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3228          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1712.80" currency="GBP">
+                     <PayerAccount number="00380776" ref="APEL3228          " name="BLUE DUCKLING LTD " sortCode="20-91-79" bankName="BARCLAYS BANK UK PLC" branchName="WATFORD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3235-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="571.00" currency="GBP">
+                     <PayerAccount number="10312787" ref="APEL3235-1        " name="CRANE FURNITURE LT" sortCode="60-83-71" bankName="STARLING BANK LTD" branchName="Starling Bank Limited"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3236-1        " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="559.00" currency="GBP">
+                     <PayerAccount number="31543334" ref="APEL3236-1        " name="INTEGRATED DIGITAL" sortCode="40-09-10" bankName="HSBC UK BANK PLC" branchName="BARNET"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3243          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="410.00" currency="GBP">
+                     <PayerAccount number="08844114" ref="APEL3243          " name="KAL CUSTOMS LTD   " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3268          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="568.00" currency="GBP">
+                     <PayerAccount number="09193230" ref="APEL3268          " name="MIA-GRACE BOUTIQUE" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3297          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1711.60" currency="GBP">
+                     <PayerAccount number="33899268" ref="APEL3297          " name="WARREN FRANCIS    " sortCode="20-33-83" bankName="BARCLAYS BANK UK PLC" branchName="GLOUCESTER"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3307          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="828.11" currency="GBP">
+                     <PayerAccount number="53605760" ref="APEL3307          " name="BESPOKE WINE COLLE" sortCode="20-90-74" bankName="BARCLAYS BANK UK PLC" branchName="WANDSWORTH 2"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3316          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="410.00" currency="GBP">
+                     <PayerAccount number="11168948" ref="APEL3316          " name="PRIMAL CORE UK LTD" sortCode="09-01-29" bankName="Santander" branchName="BANK ACCOUNT 4"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3321-4        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="385.19" currency="GBP">
+                     <PayerAccount number="58333967" ref="APEL3321-4        " name="SECURE CARD PAYMEN" sortCode="60-01-35" bankName="NAT WEST BANK PLC" branchName="BANBURY"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3324-2        " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="817.00" currency="GBP">
+                     <PayerAccount number="04709578" ref="APEL3324-2        " name="T P GARDENS LTD   " sortCode="60-83-71" bankName="STARLING BANK LTD" branchName="Starling Bank Limited"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3332          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1119.00" currency="GBP">
+                     <PayerAccount number="09777586" ref="APEL3332          " name="INTREPID TRAINING " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3340          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="562.80" currency="GBP">
+                     <PayerAccount number="04097378" ref="APEL3340          " name="SUPER SHUTTERS UK " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3342          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="410.00" currency="GBP">
+                     <PayerAccount number="35392160" ref="APEL3342          " name="W&amp;M ENGINEERING LT" sortCode="30-91-91" bankName="LLOYDS BANK PLC" branchName="CHESHAM"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3346          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="490.00" currency="GBP">
+                     <PayerAccount number="10183709" ref="APEL3346          " name="J.TAYLOR ROOFING  " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3349          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3546.00" currency="GBP">
+                     <PayerAccount number="63511901" ref="APEL3349          " name="PLANET PLAY ZONE  " sortCode="20-84-13" bankName="BARCLAYS BANK UK PLC" branchName="SUTTON COLDFIELD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3373-4        " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2508.40" currency="GBP">
+                     <PayerAccount number="89254902" ref="APEL3373-4        " name="POWELL SCAFFOLDING" sortCode="54-10-02" bankName="NAT WEST BANK PLC" branchName="HEADS OF THE VALLEY"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3383-2        " transCode="17" returnCode="B270" returnDescription="ACCOUNT CLOSED" originalProcessingDate="2019-09-27" valueOf="2155.60" currency="GBP">
+                     <PayerAccount number="33933490" ref="APEL3383-2        " name="GLASSTEC -CONSERVA" sortCode="20-98-74" bankName="BARCLAYS BANK UK PLC" branchName="WORTHING"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3442          " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="919.20" currency="GBP">
+                     <PayerAccount number="50474517" ref="APEL3442          " name="N.Y. DEISGN PRACTI" sortCode="20-37-13" bankName="BARCLAYS BANK UK PLC" branchName="HARROGATE"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3456-2        " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="499.20" currency="GBP">
+                     <PayerAccount number="68986760" ref="APEL3456-2        " name="FACT 2006 LTD     " sortCode="30-92-33" bankName="LLOYDS BANK PLC" branchName="HIGH ST COVENTRY (309233)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3457-1        " transCode="01" returnCode="B270" returnDescription="ACCOUNT CLOSED" originalProcessingDate="2019-09-27" valueOf="1188.00" currency="GBP">
+                     <PayerAccount number="83225941" ref="APEL3457-1        " name="SHABANA YR LTD    " sortCode="20-59-43" bankName="BARCLAYS BANK UK PLC" branchName="North East Counties 3"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3464-1        " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="709.48" currency="GBP">
+                     <PayerAccount number="00617619" ref="APEL3464-1        " name="CONSTRUCTION BY EL" sortCode="30-98-29" bankName="LLOYDS BANK PLC" branchName="STROUD        ROWCROFT"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3470          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3615.60" currency="GBP">
+                     <PayerAccount number="38030768" ref="APEL3470          " name="BENCHMARK &amp; EMBROI" sortCode="30-96-26" bankName="LLOYDS BANK PLC" branchName="OLDHAM"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3497-2        " transCode="17" returnCode="B270" returnDescription="ACCOUNT CLOSED" originalProcessingDate="2019-09-27" valueOf="1829.00" currency="GBP">
+                     <PayerAccount number="49276410" ref="APEL3497-2        " name="CARE HELP LINE LTD" sortCode="09-01-28" bankName="Santander" branchName="BANK ACCOUNT 3"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3500-1        " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1135.00" currency="GBP">
+                     <PayerAccount number="70984094" ref="APEL3500-1        " name="DREAMWEAR LTD     " sortCode="20-05-73" bankName="BARCLAYS BANK UK PLC" branchName="BEDFORD 3"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3506          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1265.00" currency="GBP">
+                     <PayerAccount number="11480880" ref="APEL3506          " name="KEYLANG CATTERY LT" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3521          " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="2017.60" currency="GBP">
+                     <PayerAccount number="32736136" ref="APEL3521          " name="LETTERBOX PRODUCTI" sortCode="40-20-30" bankName="HSBC UK BANK PLC" branchName="EXETER HIGH STREET"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3526-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="659.00" currency="GBP">
+                     <PayerAccount number="71139020" ref="APEL3526-1        " name="YVONNES CAKERY LTD" sortCode="60-83-71" bankName="STARLING BANK LTD" branchName="Starling Bank Limited"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3537          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1369.20" currency="GBP">
+                     <PayerAccount number="38682260" ref="APEL3537          " name="SYED LOGISTICS LIM" sortCode="30-90-89" bankName="LLOYDS BANK PLC" branchName="BLACKHEATH LONDON"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3564          " transCode="17" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="1405.20" currency="GBP">
+                     <PayerAccount number="08971156" ref="APEL3564          " name="YOUR BRIDAL MOMENT" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3575          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1106.80" currency="GBP">
+                     <PayerAccount number="24924568" ref="APEL3575          " name="YOUNGEDUCATION LTD" sortCode="30-84-77" bankName="LLOYDS BANK PLC" branchName="TOWN SQ STEVENAGE (308477)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3576-2        " transCode="01" returnCode="B270" returnDescription="ACCOUNT CLOSED" originalProcessingDate="2019-09-27" valueOf="573.60" currency="GBP">
+                     <PayerAccount number="10494279" ref="APEL3576-2        " name="D HASSALL         " sortCode="09-01-27" bankName="Santander" branchName="SANTANDER BANK ACCOUNT"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3581          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="835.60" currency="GBP">
+                     <PayerAccount number="12041780" ref="APEL3581          " name="BEES MANAGEMENT LT" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3583          " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="1765.20" currency="GBP">
+                     <PayerAccount number="90270679" ref="APEL3583          " name="CJSL LIMITED      " sortCode="20-45-45" bankName="BARCLAYS BANK UK PLC" branchName="BUSINESS DIRECT"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3586          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2622.00" currency="GBP">
+                     <PayerAccount number="32037460" ref="APEL3586          " name="MIND OVER MATTER T" sortCode="30-96-26" bankName="LLOYDS BANK PLC" branchName="OLDHAM"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3592-2        " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1106.80" currency="GBP">
+                     <PayerAccount number="30161624" ref="APEL3592-2        " name="RATIONALE1 LTD    " sortCode="20-49-17" bankName="BARCLAYS BANK UK PLC" branchName="LEICESTER TOWN HALL SQ 2"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3600          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="999.60" currency="GBP">
+                     <PayerAccount number="37092368" ref="APEL3600          " name="GLAMOUREYEZZ LTD  " sortCode="77-85-27" bankName="LLOYDS BANK PLC" branchName="BIRMINGHAM  KITTS GREEN"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3601-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1934.80" currency="GBP">
+                     <PayerAccount number="14335781" ref="APEL3601-1        " name="D &amp; L BUBBLE PACKA" sortCode="09-01-29" bankName="Santander" branchName="BANK ACCOUNT 4"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3603          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1037.00" currency="GBP">
+                     <PayerAccount number="82113341" ref="APEL3603          " name="ZB HOMECARE LTD   " sortCode="40-46-08" bankName="HSBC UK BANK PLC" branchName="WELWYN GDN CITY HOWARDSGATE"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3604          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="4065.60" currency="GBP">
+                     <PayerAccount number="90465097" ref="APEL3604          " name="SALONS &amp; SPAS LIMI" sortCode="20-48-42" bankName="BARCLAYS BANK UK PLC" branchName="LEEDS 2"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3606          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="785.20" currency="GBP">
+                     <PayerAccount number="53450228" ref="APEL3606          " name="BRITANNIA LANDSCAP" sortCode="20-55-41" bankName="BARCLAYS BANK UK PLC" branchName="MANCHESTER CITY 2"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3611          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1311.60" currency="GBP">
+                     <PayerAccount number="14907546" ref="APEL3611          " name="MANOR GREETINGS LI" sortCode="09-01-29" bankName="Santander" branchName="BANK ACCOUNT 4"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3623-2        " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="835.60" currency="GBP">
+                     <PayerAccount number="30161624" ref="APEL3623-2        " name="RATIONALE1 LTD    " sortCode="20-49-17" bankName="BARCLAYS BANK UK PLC" branchName="LEICESTER TOWN HALL SQ 2"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3624          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="618.00" currency="GBP">
+                     <PayerAccount number="42708068" ref="APEL3624          " name="SHEEPDIP MEDIA LIM" sortCode="30-97-25" bankName="LLOYDS BANK PLC" branchName="ST ALBANS (309725)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3643-1        " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="1551.60" currency="GBP">
+                     <PayerAccount number="70973203" ref="APEL3643-1        " name="IAN COLEMAN PLUMBI" sortCode="20-05-74" bankName="BARCLAYS BANK UK PLC" branchName="BEDFORD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3668          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2497.60" currency="GBP">
+                     <PayerAccount number="89865246" ref="APEL3668          " name="CROSSSED FORKS LIM" sortCode="23-18-84" bankName="SPS LTD" branchName="SPECTRUM T/A CARDONE"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3719          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="543.00" currency="GBP">
+                     <PayerAccount number="30682845" ref="APEL3719          " name="LSR CLINIC LTD    " sortCode="09-01-29" bankName="Santander" branchName="BANK ACCOUNT 4"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3736          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="6177.60" currency="GBP">
+                     <PayerAccount number="23269560" ref="APEL3736          " name="WELLS SOLUTIONS IN" sortCode="30-95-56" bankName="LLOYDS BANK PLC" branchName="MIDDLESBROUGH (309556)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3754          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="659.00" currency="GBP">
+                     <PayerAccount number="71402568" ref="APEL3754          " name="INTERIOR AND EXTER" sortCode="30-99-21" bankName="LLOYDS BANK PLC" branchName="WATFORD (309921)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3755-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="766.00" currency="GBP">
+                     <PayerAccount number="79215416" ref="APEL3755-1        " name="1ST BRITISH TECHNO" sortCode="60-15-55" bankName="NAT WEST BANK PLC" branchName="NORTHAMPTON,WESTON FAVELL"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3757-1        " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="468.00" currency="GBP">
+                     <PayerAccount number="60324960" ref="APEL3757-1        " name="THE LITTLE SPARKLE" sortCode="30-99-21" bankName="LLOYDS BANK PLC" branchName="WATFORD (309921)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3767          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="449.00" currency="GBP">
+                     <PayerAccount number="43201027" ref="APEL3767          " name="JML PODIATRY/CHIRO" sortCode="60-83-71" bankName="STARLING BANK LTD" branchName="Starling Bank Limited"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3770          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="671.00" currency="GBP">
+                     <PayerAccount number="12182535" ref="APEL3770          " name="ABSOLUTE STAFFING " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3773          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1874.00" currency="GBP">
+                     <PayerAccount number="03323021" ref="APEL3773          " name="OPEN HEART CARE LT" sortCode="20-89-16" bankName="BARCLAYS BANK UK PLC" branchName="UXBRIDGE"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3780          " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="1106.80" currency="GBP">
+                     <PayerAccount number="03674525" ref="APEL3780          " name="HIRD ENVIRONMENTAL" sortCode="20-11-81" bankName="BARCLAYS BANK UK PLC" branchName="BRADFORD MARKET STREET"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3783-1        " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="12326.80" currency="GBP">
+                     <PayerAccount number="23741826" ref="APEL3783-1        " name="AQUA SWIM SUPPLIES" sortCode="20-76-90" bankName="BARCLAYS BANK UK PLC" branchName="Walthamstow 3"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3794          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="559.00" currency="GBP">
+                     <PayerAccount number="31007283" ref="APEL3794          " name="TRIPLE A FOOTBALL " sortCode="23-05-80" bankName="METRO BANK" branchName="London"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3823-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1450.00" currency="GBP">
+                     <PayerAccount number="33747484" ref="APEL3823-1        " name="DVH PROPERTY INVES" sortCode="20-44-22" bankName="BARCLAYS BANK UK PLC" branchName="HAINAULT"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3837          " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="2037.00" currency="GBP">
+                     <PayerAccount number="81485792" ref="APEL3837          " name="WILTSHIRE INSURANC" sortCode="40-19-16" bankName="HSBC UK BANK PLC" branchName="DEVIZES"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3853-2        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1006.80" currency="GBP">
+                     <PayerAccount number="83040127" ref="APEL3853-2        " name="A1 GUNS LIMITED   " sortCode="20-84-41" bankName="BARCLAYS BANK UK PLC" branchName="SWANSEA KINGSWAY"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3857-2        " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1370.40" currency="GBP">
+                     <PayerAccount number="68986760" ref="APEL3857-2        " name="FACT 2006 LTD     " sortCode="30-92-33" bankName="LLOYDS BANK PLC" branchName="HIGH ST COVENTRY (309233)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3863          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1097.60" currency="GBP">
+                     <PayerAccount number="61948500" ref="APEL3863          " name="JM INVESTMENTS -NO" sortCode="55-50-34" bankName="NAT WEST BANK PLC" branchName="SOUTH SHIELDS"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3870          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3446.40" currency="GBP">
+                     <PayerAccount number="92916196" ref="APEL3870          " name="H HINDLEY &amp; SON   " sortCode="09-01-28" bankName="Santander" branchName="BANK ACCOUNT 3"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3871          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1805.20" currency="GBP">
+                     <PayerAccount number="14076982" ref="APEL3871          " name="THE BUCKWELL LTD  " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3872-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1861.60" currency="GBP">
+                     <PayerAccount number="53736649" ref="APEL3872-1        " name="SAKURA BUBBLE TEA " sortCode="60-83-71" bankName="STARLING BANK LTD" branchName="Starling Bank Limited"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3874-2        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="492.00" currency="GBP">
+                     <PayerAccount number="53019060" ref="APEL3874-2        " name="BOVEO LIMITED     " sortCode="30-99-98" bankName="LLOYDS BANK PLC" branchName="YEOVIL"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3898          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3142.40" currency="GBP">
+                     <PayerAccount number="14071785" ref="APEL3898          " name="YOUNGS OF SUSSEX L" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3909          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="559.00" currency="GBP">
+                     <PayerAccount number="13739176" ref="APEL3909          " name="OWL AND HAMMER LTD" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3943          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3694.00" currency="GBP">
+                     <PayerAccount number="26104459" ref="APEL3943          " name="J CARR GROUP LTD  " sortCode="23-05-80" bankName="METRO BANK" branchName="London"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3966          " transCode="17" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="1196.40" currency="GBP">
+                     <PayerAccount number="03872441" ref="APEL3966          " name="KINGSMEN STREET FO" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3968          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="771.00" currency="GBP">
+                     <PayerAccount number="12846550" ref="APEL3968          " name="T.P.HOLLAND &amp; SON " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3969          " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="39348.00" currency="GBP">
+                     <PayerAccount number="20104671" ref="APEL3969          " name="PLASTICO LTD      " sortCode="40-11-60" bankName="HSBC UK BANK PLC" branchName="City of London (401160)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3970          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1006.80" currency="GBP">
+                     <PayerAccount number="16497347" ref="APEL3970          " name="POOLSERVE LIMITED " sortCode="23-05-80" bankName="METRO BANK" branchName="London"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3971          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1099.60" currency="GBP">
+                     <PayerAccount number="27504344" ref="APEL3971          " name="REGENCY RENOVATION" sortCode="52-21-39" bankName="NAT WEST BANK PLC" branchName="CLEVEDON, THE TRIANGLE"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3973          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3824.40" currency="GBP">
+                     <PayerAccount number="49306804" ref="APEL3973          " name="THE JOLLY FARMER W" sortCode="52-41-32" bankName="NAT WEST BANK PLC" branchName="FAREHAM"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3977          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="824.40" currency="GBP">
+                     <PayerAccount number="49670808" ref="APEL3977          " name="THE ENTREPRENEURS " sortCode="60-13-37" bankName="NAT WEST BANK PLC" branchName="MALDON ESSEX"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL3978-1        " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="809.36" currency="GBP">
+                     <PayerAccount number="94674205" ref="APEL3978-1        " name="REVAMP PRODUCT    " sortCode="60-04-20" bankName="NAT WEST BANK PLC" branchName="CAMBERLEY"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL812           " transCode="17" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="6696.00" currency="GBP">
+                     <PayerAccount number="40532368" ref="APEL812           " name="R &amp; K DRYSDALE LTD" sortCode="82-62-30" bankName="CLYDESDALE" branchName="EDINBURGH HAYMARKET"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="APEL965-3         " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="4793.47" currency="GBP">
+                     <PayerAccount number="73372340" ref="APEL965-3         " name="SANCTUM LONDON    " sortCode="20-01-58" bankName="BARCLAYS BANK UK PLC" branchName="1 CHURCHILL PLCE 9"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR3981-2          " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="1614.00" currency="GBP">
+                     <PayerAccount number="58830634" ref="BR3981-2          " name="THE SPA AT 142 LTD" sortCode="60-70-08" bankName="NAT WEST BANK PLC" branchName="ST HELENS"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR3987            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1336.00" currency="GBP">
+                     <PayerAccount number="10516654" ref="BR3987            " name="KILGETTY R.A.O.B  " sortCode="54-10-18" bankName="NAT WEST BANK PLC" branchName="HAVERFORDWEST (D)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR3989-1          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2661.20" currency="GBP">
+                     <PayerAccount number="70370894" ref="BR3989-1          " name="YIELD ENGINEERING " sortCode="20-74-81" bankName="BARCLAYS BANK UK PLC" branchName="ST NEOTS"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR3991-1          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1861.60" currency="GBP">
+                     <PayerAccount number="30729160" ref="BR3991-1          " name="JPC CAPITAL VENTUR" sortCode="30-90-99" bankName="LLOYDS BANK PLC" branchName="BOGNOR REGIS"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR3995            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="785.20" currency="GBP">
+                     <PayerAccount number="15528684" ref="BR3995            " name="MICKI MORGANS CAFE" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4016-2          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="499.20" currency="GBP">
+                     <PayerAccount number="12205017" ref="BR4016-2          " name="ARGONAUT ENTERPRIS" sortCode="40-46-18" bankName="HSBC UK BANK PLC" branchName="WESTON-SUPER-MARE HIGH ST"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4037            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="4197.60" currency="GBP">
+                     <PayerAccount number="16121109" ref="BR4037            " name="THE CRYO LOUNGE   " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4044-3          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1134.40" currency="GBP">
+                     <PayerAccount number="80353716" ref="BR4044-3          " name="BUY A BARGAIN -U.K" sortCode="04-00-04" bankName="MONZO BANK LIMITED" branchName="Monzo"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4053            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3883.20" currency="GBP">
+                     <PayerAccount number="77352246" ref="BR4053            " name="EKON GROUP LTD    " sortCode="60-03-25" bankName="NAT WEST BANK PLC" branchName="BRENTWOOD ESSEX"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4069            " transCode="17" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="1600.79" currency="GBP">
+                     <PayerAccount number="16377586" ref="BR4069            " name="EMPYREAN GARDENS L" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4095            " transCode="17" returnCode="6270" returnDescription="NO INSTRUCTION" originalProcessingDate="2019-09-27" valueOf="8680.80" currency="GBP">
+                     <PayerAccount number="16801817" ref="BR4095            " name="AMOREUK LTD       " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4107-1          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1326.00" currency="GBP">
+                     <PayerAccount number="69924560" ref="BR4107-1          " name="MVPS BURGERS &amp; SHA" sortCode="30-98-97" bankName="LLOYDS BANK PLC" branchName="Victoria (309897)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4112            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1575.49" currency="GBP">
+                     <PayerAccount number="53723775" ref="BR4112            " name="TILE AND STYLE LIM" sortCode="01-08-15" bankName="NAT WEST BANK PLC" branchName="SLOUGH, TRADING ESTATE"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4134            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="754.00" currency="GBP">
+                     <PayerAccount number="17395777" ref="BR4134            " name="PRECISION MUSIC LI" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4172            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2021.20" currency="GBP">
+                     <PayerAccount number="17228655" ref="BR4172            " name="HEAVENZ DESSERT BA" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4177-3          " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="908.00" currency="GBP">
+                     <PayerAccount number="12582566" ref="BR4177-3          " name="HOSANNA HEALTH CAR" sortCode="11-06-30" bankName="HALIFAX" branchName="READING BROAD STREET"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4183-2          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1680.00" currency="GBP">
+                     <PayerAccount number="72487328" ref="BR4183-2          " name="TEMPORAL SCIFI LIM" sortCode="60-83-71" bankName="STARLING BANK LTD" branchName="Starling Bank Limited"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4199            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="919.20" currency="GBP">
+                     <PayerAccount number="63819068" ref="BR4199            " name="SELWOOD &amp; SON TA T" sortCode="77-08-08" bankName="LLOYDS BANK PLC" branchName="ILKESTON"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4205            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1739.20" currency="GBP">
+                     <PayerAccount number="46528291" ref="BR4205            " name="YE OLD CHERRY TREE" sortCode="23-18-84" bankName="SPS LTD" branchName="SPECTRUM T/A CARDONE"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4210            " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="2099.20" currency="GBP">
+                     <PayerAccount number="73822060" ref="BR4210            " name="P ELSAGOOD TRANSPO" sortCode="20-18-93" bankName="BARCLAYS BANK UK PLC" branchName="North Kent 3"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4211            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="966.00" currency="GBP">
+                     <PayerAccount number="74005030" ref="BR4211            " name="THE OCTOPUS KITCHE" sortCode="51-61-06" bankName="NAT WEST BANK PLC" branchName="ABERYSTWYTH"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4212-1          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2692.80" currency="GBP">
+                     <PayerAccount number="62321920" ref="BR4212-1          " name="OCEANS BAY AQUATIC" sortCode="40-22-24" bankName="HSBC UK BANK PLC" branchName="Grimsby"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4213            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1216.00" currency="GBP">
+                     <PayerAccount number="90465097" ref="BR4213            " name="SALONS AND SPAS ET" sortCode="20-48-42" bankName="BARCLAYS BANK UK PLC" branchName="LEEDS 2"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4221            " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="1542.40" currency="GBP">
+                     <PayerAccount number="12433669" ref="BR4221            " name="VENALAND LTD      " sortCode="09-01-29" bankName="Santander" branchName="BANK ACCOUNT 4"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4222            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1216.00" currency="GBP">
+                     <PayerAccount number="32037460" ref="BR4222            " name="MID OVER MATTER TA" sortCode="30-96-26" bankName="LLOYDS BANK PLC" branchName="OLDHAM"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4241            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="703.00" currency="GBP">
+                     <PayerAccount number="43224767" ref="BR4241            " name="LJ SECURITY &amp; K9 S" sortCode="20-54-25" bankName="BARCLAYS BANK UK PLC" branchName="MAIDSTONE 2"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4284            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="717.60" currency="GBP">
+                     <PayerAccount number="22776260" ref="BR4284            " name="E P &amp; A ROWLANDS  " sortCode="30-99-95" bankName="LLOYDS BANK PLC" branchName="WREXHAM  REGENT ST"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4287            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="355.00" currency="GBP">
+                     <PayerAccount number="30022671" ref="BR4287            " name="THE WOOLLEY SHOP L" sortCode="60-83-71" bankName="STARLING BANK LTD" branchName="Starling Bank Limited"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4300            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1336.00" currency="GBP">
+                     <PayerAccount number="12205017" ref="BR4300            " name="ARGONAUT ENTERPRIS" sortCode="40-46-18" bankName="HSBC UK BANK PLC" branchName="WESTON-SUPER-MARE HIGH ST"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4307            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="895.00" currency="GBP">
+                     <PayerAccount number="80753968" ref="BR4307            " name="SWANDIVA LTD      " sortCode="30-92-59" bankName="LLOYDS BANK PLC" branchName="IRONGATE DERBY"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4311            " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="559.00" currency="GBP">
+                     <PayerAccount number="02316609" ref="BR4311            " name="DPS FINANCIAL CONS" sortCode="40-22-09" bankName="HSBC UK BANK PLC" branchName="GLOUCESTER THE CROSS"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4363            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1034.40" currency="GBP">
+                     <PayerAccount number="53723775" ref="BR4363            " name="TILE AND STYLE LIM" sortCode="01-08-15" bankName="NAT WEST BANK PLC" branchName="SLOUGH, TRADING ESTATE"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4365            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3022.80" currency="GBP">
+                     <PayerAccount number="38030768" ref="BR4365            " name="BENCHMARK PRINT EM" sortCode="30-96-26" bankName="LLOYDS BANK PLC" branchName="OLDHAM"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4368            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2014.00" currency="GBP">
+                     <PayerAccount number="61636940" ref="BR4368            " name="I-DESIGN BY NYC LI" sortCode="01-09-02" bankName="NAT WEST BANK PLC" branchName="URMSTON"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4372-2          " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="1048.80" currency="GBP">
+                     <PayerAccount number="69588152" ref="BR4372-2          " name="MCKAY WOODWORK LTD" sortCode="08-92-99" bankName="CO-OPERATIVE BANK" branchName="BUSINESS DIRECT"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4375            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1268.80" currency="GBP">
+                     <PayerAccount number="30980854" ref="BR4375            " name="GINGER MONKEY PLAY" sortCode="20-51-08" bankName="BARCLAYS BANK UK PLC" branchName="LIVERPOOL CITY BUSINESS 2"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4380            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1098.00" currency="GBP">
+                     <PayerAccount number="18565345" ref="BR4380            " name="ELITE BEAUTY TRAIN" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4381            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3394.80" currency="GBP">
+                     <PayerAccount number="18376198" ref="BR4381            " name="DJW HOSPITALITY LT" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4384            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1097.00" currency="GBP">
+                     <PayerAccount number="63236161" ref="BR4384            " name="KINGMAKER RACEDAYS" sortCode="20-55-41" bankName="BARCLAYS BANK UK PLC" branchName="MANCHESTER CITY 2"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4429            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="559.00" currency="GBP">
+                     <PayerAccount number="18719306" ref="BR4429            " name="HYDE PARK BNB LTD " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4434            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1112.38" currency="GBP">
+                     <PayerAccount number="54209552" ref="BR4434            " name="EJV SOLUTIONS LTD " sortCode="60-01-40" bankName="NAT WEST BANK PLC" branchName="ALDRIDGE"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4453            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="835.60" currency="GBP">
+                     <PayerAccount number="43921727" ref="BR4453            " name="NAMELESS MODS CO  " sortCode="20-82-13" bankName="BARCLAYS BANK UK PLC" branchName="STOCKPORT 3"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4457-1          " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="449.00" currency="GBP">
+                     <PayerAccount number="00112142" ref="BR4457-1          " name="S.J.M FABRICATIONS" sortCode="23-11-85" bankName="WIRECARD" branchName="WIRECARD CARD SOLUTIONS LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4461            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1099.60" currency="GBP">
+                     <PayerAccount number="18973051" ref="BR4461            " name="MSC CARPENTRY&amp;CONS" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4462-1          " transCode="01" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="4791.60" currency="GBP">
+                     <PayerAccount number="11285742" ref="BR4462-1          " name="RNZ UK LTD        " sortCode="40-09-34" bankName="HSBC UK BANK PLC" branchName="Solihull"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4465            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="602.00" currency="GBP">
+                     <PayerAccount number="47980990" ref="BR4465            " name="POP BOX EVENTS LTD" sortCode="60-01-11" bankName="NAT WEST BANK PLC" branchName="LIVERPOOL, ALLERTON ROAD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4498            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2312.00" currency="GBP">
+                     <PayerAccount number="19153893" ref="BR4498            " name="CUTTINGSHAPES HAIR" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4512            " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="3789.60" currency="GBP">
+                     <PayerAccount number="33820831" ref="BR4512            " name="STYBARROW KENNELS " sortCode="20-17-20" bankName="BARCLAYS BANK UK PLC" branchName="CAMBRIDGE CITY3"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4523            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="673.60" currency="GBP">
+                     <PayerAccount number="19284102" ref="BR4523            " name="MJT ROOFING LTD   " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4524            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3654.00" currency="GBP">
+                     <PayerAccount number="01554730" ref="BR4524            " name="PREMIER NEW DESIGN" sortCode="09-01-28" bankName="Santander" branchName="BANK ACCOUNT 3"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4527            " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="2338.00" currency="GBP">
+                     <PayerAccount number="32282070" ref="BR4527            " name="KOGAN ACADEMY OF D" sortCode="40-04-09" bankName="HSBC UK BANK PLC" branchName="COVENT GARDEN BRANCH"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4598            " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="713.00" currency="GBP">
+                     <PayerAccount number="19632623" ref="BR4598            " name="HEARTWOODWORKINGS " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4605            " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="408.00" currency="GBP">
+                     <PayerAccount number="00106694" ref="BR4605            " name="BEHIND THE SCENES " sortCode="23-11-85" bankName="WIRECARD" branchName="WIRECARD CARD SOLUTIONS LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4606            " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="4909.20" currency="GBP">
+                     <PayerAccount number="19550635" ref="BR4606            " name="AIRPORT GYM LTD   " sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4610            " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1529.00" currency="GBP">
+                     <PayerAccount number="17938329" ref="BR4610            " name="BAGS OF THOUGHT LT" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR4612            " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="408.00" currency="GBP">
+                     <PayerAccount number="66473168" ref="BR4612            " name="4 GLOBAL SAFE AIR " sortCode="30-98-97" bankName="LLOYDS BANK PLC" branchName="Victoria (309897)"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR90020-1         " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="695.00" currency="GBP">
+                     <PayerAccount number="51582460" ref="BR90020-1         " name="PAS BISTRO LIMITED" sortCode="30-96-26" bankName="LLOYDS BANK PLC" branchName="OLDHAM"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR90032           " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1764.00" currency="GBP">
+                     <PayerAccount number="10589221" ref="BR90032           " name="INTEGRATED EFFLUEN" sortCode="09-02-22" bankName="Santander" branchName="San UK Corporate New"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR90036           " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="1024.00" currency="GBP">
+                     <PayerAccount number="03323021" ref="BR90036           " name="OPEN HEART CARE LT" sortCode="20-89-16" bankName="BARCLAYS BANK UK PLC" branchName="UXBRIDGE"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="BR90059           " transCode="01" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="398.00" currency="GBP">
+                     <PayerAccount number="19762016" ref="BR90059           " name="TOLLEY HERITAGE LT" sortCode="23-69-72" bankName="PREPAY TECHNOLOGIES" branchName="Prepay Technologies LTD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="HRF-APEL1009      " transCode="17" returnCode="1270" returnDescription="INSTRUCTION CANCELLED" originalProcessingDate="2019-09-27" valueOf="1000.07" currency="GBP">
+                     <PayerAccount number="90330485" ref="HRF-APEL1009      " name="HR FEATHERSTONE   " sortCode="20-81-20" bankName="BARCLAYS BANK UK PLC" branchName="STAMFORD"/>
+                  </ReturnedDebitItem>
+                  <ReturnedDebitItem ref="PG-APEL1385       " transCode="17" returnCode="0270" returnDescription="REFER TO PAYER" originalProcessingDate="2019-09-27" valueOf="3202.00" currency="GBP">
+                     <PayerAccount number="81624784" ref="PG-APEL1385       " name="PHILLIPS GLOBAL   " sortCode="40-15-22" bankName="HSBC UK BANK PLC" branchName="BURY ST EDMUNDS"/>
+                  </ReturnedDebitItem>
+                  <Totals numberOf="233" valueOf="421266.81" currency="GBP"/>
+               </OriginatingAccountRecord>
+            </OriginatingAccountRecords>
+         </Advice>
+      </ARUDD>
+   </Data><SignatureMethod>Vanilla</SignatureMethod><Signature>MIIOjgYJKoZIhvcNAQcCoIIOfzCCDnsCAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3DQEHAaCCDBMw
+ggaFMIIFbaADAgECAhBAAVz5Jmn0EwV3cNET1o8HMA0GCSqGSIb3DQEBBQUAMIGnMScwJQYDVQQK
+DB5UaGUgUm95YWwgQmFuayBvZiBTY290bGFuZCBwbGMxQzBBBgNVBAsMOlRoZSBSb3lhbCBCYW5r
+IG9mIFNjb3RsYW5kIHBsYyBUcnVzdEFzc3VyZWQgSW5mcmFzdHJ1Y3R1cmUxNzA1BgNVBAMMLlRo
+ZSBSb3lhbCBCYW5rIG9mIFNjb3RsYW5kIFBsYyBUcnVzdEFzc3VyZWQgQ0EwHhcNMTcwNjMwMTMx
+NzQzWhcNMjAwNjI5MTMxNzQzWjBTMQswCQYDVQQGEwJHQjEVMBMGA1UEChMMVm9jYUxpbmsgTHRk
+MRMwEQYDVQQLEwpCQUNTVEVMLUlQMRgwFgYDVQQDEw9SQlNHIFBST0QgQVAxMDEwggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQDRVcLsAJJ4qY99mzdYMh97V3Xs/L/aEDKRfAivxsU7GOmN
+4ZjRttXgk+oS/EDzIT/eSEQMDFFAVBWMwkX5pL3ipRtLCMzPSg+ugdCKBXpiHaqIDB01F/y3Ctef
+f2HzKX9U+HufJ7nEpHZVRXqoMZ3bHSJpl2oGwWOXzl3+V3UjabCk6LRIXysD3fDX6xTxcuGXPPyX
+0HoYDCvzFpfpAiCCTThmwaRwpOGhXqOfF4L0uhJ3saGRCciy2X4o2cPdMKHoumPJhVILcoVKil8N
+w1mcSjl2eyEd4+9tWSO1YFBnolYFxymPe0zM805l1W4TpLA/YhMOoe8sWJbAad+4F6UFAgMBAAGj
+ggL+MIIC+jAOBgNVHQ8BAf8EBAMCBsAwPgYIKwYBBQUHAQEEMjAwMC4GCCsGAQUFBzABhiJodHRw
+czovL3Jic2lpLm9jc3B0bi5pZGVudHJ1c3QuY29tMB8GA1UdIwQYMBaAFGMXwIHUvw+pZjGW+hfB
+sMraFwLQMIICHAYDVR0gBIICEzCCAg8wgecGCSqGSIb6ZQEKATCB2TCB1gYIKwYBBQUHAgIwgcka
+gcZUaGlzIENlcnRpZmljYXRlIG1heSBiZSByZWxpZWQgdXBvbiBvbmx5IGJ5IGVpdGhlcjogKDEp
+IGEgUmVseWluZyBDdXN0b21lciBvZiBhbiBJZGVuVHJ1c3QgUGFydGljaXBhbnQsIG9yICgyKSBh
+IHBhcnR5IGJvdW5kIHRvIHRoZSBhbHRlcm5hdGl2ZSBwb2xpY3kgcmVnaW1lIHNwZWNpZmllZCBl
+bHNld2hlcmUgaW4gdGhpcyBDZXJ0aWZpY2F0ZS4wggEhBg8qhjoAAoXBSAoBAgEBBAAwggEMMIIB
+CAYIKwYBBQUHAgIwgfsagfhUaGlzIENlcnRpZmljYXRlIGlzIGZvciB0aGUgc29sZSB1c2Ugb2Yg
+UkJTLCB0aGVpciBjdXN0b21lcnMsIGFuZCBvdGhlciBjb250cmFjdGVkIHBhcnRpZXMgb2YgYXNz
+b2NpYXRlZCBzdXBwb3J0ZWQgU2NoZW1lcy4gUkJTIGFjY2VwdHMgbm8gbGlhYmlsaXR5IGZvciBh
+bnkgY2xhaW0gZXhjZXB0IGFzIGV4cHJlc3NseSBwcm92aWRlZCBpbiBpdHMgQnVzaW5lc3MgQ3Vz
+dG9tZXIgQWdyZWVtZW50IFRlcm1zIGFuZCBDb25kaXRpb25zLjAuBgNVHREEJzAlgSNCYWNzLlNl
+cnZpY2VNYW5hZ2VtZW50QHZvY2FsaW5rLmNvbTAdBgNVHQ4EFgQUjlNU/ucVm8lr8TcFItCmgGBP
+ATgwGAYIKwYBBQUHAQMEDDAKMAgGBgQAjkYBATANBgkqhkiG9w0BAQUFAAOCAQEAUqMw4r2aMzKI
+fLY+rZCJ/SreVv4tR0bijgFhqMg/z0YGcsx0lx5VoelW7V95bvl26qof5UISNdBQFqWtD7EpCJPU
+PJWG+Os/stxBRGg4tGp/BgXiO0JChzGlMIlTSaBuFmUwSg+v163P3t5wePQVHwU+clQ/wy00dijX
+cEB0GDs8qBM6Yl7szhCm4TNYTXMwymv0CnLCg3fafdgXlKdaDhpH3hXI/a87DOXvN9CHj/1zUTqt
+64XKPLc38Yxf7Q/n3zaIXEcaSJU6LIpJIZAWvzSrWdnYDigTOoLjxJK87I+BoR652N5kY8L5FL0E
+hERYYTn5wOBWWwuH4SSNG6zcHDCCBYYwggRuoAMCAQICEAoBQUIAAAFBnhianAAAAAIwDQYJKoZI
+hvcNAQEFBQAwdzEXMBUGA1UEChMOSWRlblRydXN0IEluYy4xLTArBgNVBAsTJElkZW5UcnVzdCBS
+b290IENlcnRpZmljYXRlIEF1dGhvcml0eTEtMCsGA1UEAxMkSWRlblRydXN0IFJvb3QgQ2VydGlm
+aWNhdGUgQXV0aG9yaXR5MB4XDTEzMTAwOTE2NDE1NFoXDTIwMTAwOTE2NDE1NFowgacxJzAlBgNV
+BAoMHlRoZSBSb3lhbCBCYW5rIG9mIFNjb3RsYW5kIHBsYzFDMEEGA1UECww6VGhlIFJveWFsIEJh
+bmsgb2YgU2NvdGxhbmQgcGxjIFRydXN0QXNzdXJlZCBJbmZyYXN0cnVjdHVyZTE3MDUGA1UEAwwu
+VGhlIFJveWFsIEJhbmsgb2YgU2NvdGxhbmQgUGxjIFRydXN0QXNzdXJlZCBDQTCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAMuQuSGpH/sbwmVnlhQNsW/lE1gNsHxM2rrRgKMCGHoXXPwr
+9GG1BEPiLTl9tfuXHlxqnp7EIJDpqHiG6+uhDupLpYO2i/JmBErKLI/kljHJVkCsJ+wvgOXEN+1o
+c0VwbFNDkqQdfOBD9dBUnaZNfuAFg4lRuvCl2RW5+dOJ44nq7S2zdtBluwKOuRN0EZXXS4uJv39u
+f5gqjOvOLJc9N+f9ZW0c/u2jQLfR6A9zy9V7+uO7khiOMM5DNBBfEmk6njWrZ1O2DjzrU5LKWEqI
+azHcWKRGfenBTBRv0SwO6iHNlR+SFyLXiCMCRk8mKgxA6KIqKo3031UBJDbImePplk0CAwEAAaOC
+AdswggHXMA4GA1UdDwEB/wQEAwIB/jASBgNVHRMBAf8ECDAGAQH/AgEHMIHyBgNVHSAEgeowgecw
+geQGCSqGSIb6ZQEGATCB1jCB0wYIKwYBBQUHAgIwgcYagcNUaGlzIGNlcnRpZmljYXRlIGlzIGZv
+ciB0aGUgc29sZSB1c2Ugb2YgSWRlblRydXN0LCBpdHMgUGFydGljaXBhbnRzIGFuZCB0aGVpciBj
+dXN0b21lcnMuIElkZW5UcnVzdCBhY2NlcHRzIG5vIGxpYWJpbGl0eSBmb3IgYW55IGNsYWltIGV4
+Y2VwdCBhcyBleHByZXNzbHkgcHJvdmlkZWQgaW4gaXRzIE9wZXJhdGluZyBSdWxlcyBJTC1PUFJV
+TC4wHQYDVR0OBBYEFGMXwIHUvw+pZjGW+hfBsMraFwLQMHwGCCsGAQUFBwEBBHAwbjA2BggrBgEF
+BQcwAYYqaHR0cHM6Ly9pZGVudHJ1c3Ryb290Lm9jc3B0bi5pZGVudHJ1c3QuY29tMDQGCCqGSIb6
+ZQQBhihodHRwczovL2lkZW50cnVzdHJvb3QudGN0bi5pZGVudHJ1c3QuY29tMB8GA1UdIwQYMBaA
+FHTYCfZJJ5sEGhlj+mErc/+dbkk9MA0GCSqGSIb3DQEBBQUAA4IBAQC7sGDJo/XylmrN2Efvjyi1
+W27iOooPfsVgAYZ/UGbaPjvcMmn/xJE2KBC/SFIodL85kEunCjBkqB8eb19H2Q9gnsd/lFht5nG4
+49obpxPOs4FsRSZSaadWjBLnajmSdGmTbQX3u9mdv/IrvhGpcG+Te07kNmvmbqP13pfryKXZ+ekx
+iX/JZ7/A+dCEVC+tSGoeDWBa1feX2TuVUcSrCVdoYVNbroKOQJ94wjsN7imhh5GtNq940wQl4W4r
+CwzL6+JJ4VXWt4nCjtruuKCI0jAIDMZmdCYsxZ4slR4foK2yVZXNc9Rjm0q9Kb5AdJQC9L/4kKgx
+mgYxCcVBsht3N1klMYICQzCCAj8CAQEwgbwwgacxJzAlBgNVBAoMHlRoZSBSb3lhbCBCYW5rIG9m
+IFNjb3RsYW5kIHBsYzFDMEEGA1UECww6VGhlIFJveWFsIEJhbmsgb2YgU2NvdGxhbmQgcGxjIFRy
+dXN0QXNzdXJlZCBJbmZyYXN0cnVjdHVyZTE3MDUGA1UEAwwuVGhlIFJveWFsIEJhbmsgb2YgU2Nv
+dGxhbmQgUGxjIFRydXN0QXNzdXJlZCBDQQIQQAFc+SZp9BMFd3DRE9aPBzAJBgUrDgMCGgUAoF0w
+GAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMTkxMDAxMDEyMzExWjAj
+BgkqhkiG9w0BCQQxFgQUi6ZEmi1jxdzh89lDDcc9OYSLU2IwDQYJKoZIhvcNAQEBBQAEggEAsECd
+w61GOumF/TZmOJd1fRM6x9qMKiFBFYRc07JlhHW+pdOPHHGLSYMjuWfpxSMmCJVpLDagxwgCatfC
+2Q77b82MaO0HWDqqbE5Sue1x5PQALKHrA36roptzpvP8LMmN9F5iTjwMolM6+KyRMrT8EjVs9SKy
+h+mSPJ4tcCTnpfPIzhZ/ENgDOYeD1O8fly5a23gc1nFaYVuxxurMJu/Ad79cvqUv2c9GLE1bhkSF
+h9DT36E0WE1Zx7v8PHkHpk4fAO1yJ3vlRjlIqcWWsjYTwnzBgaArAT1ByTAO/57b0JCZkP6vrHKA
+rErEXSIZFrF6LCli9MXQbBC/PnmPg8pNvA==</Signature></BACSDocument>
